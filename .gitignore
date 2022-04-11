@@ -16,7 +16,7 @@ __pycache__/
 
 !manipuler_les_fichiers/donnees/etudiantes_universites_suisses_v2.csv
 
-
+statistiques_descriptives/corrige_elements_statistiques_descriptives.ipynb
 
 # Environments
 .env
