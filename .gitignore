@@ -1,5 +1,4 @@
 *.sqlite
-data/
 .DS_Store
 
 docs_text
@@ -13,8 +12,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-!statistiques_descriptives/data/hdv2003.csv
 !manipuler_les_fichiers/donnees/etudiantes_universites_suisses_v2.csv
+!statistiques_descriptives/data/hdv2003.csv
+!statistiques_descriptives/data/observations_mod.csv
 
 statistiques_descriptives/corrige_elements_statistiques_descriptives.ipynb
 
