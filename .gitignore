@@ -16,7 +16,7 @@ __pycache__/
 !statistiques_descriptives/data/hdv2003.csv
 !statistiques_descriptives/data/observations_mod.csv
 
-statistiques_descriptives/corrige_elements_statistiques_descriptives.ipynb
+statistiques_descriptives/corrige_analyse_univariee_et_bivariee.ipynb
 
 # Environments
 .env
