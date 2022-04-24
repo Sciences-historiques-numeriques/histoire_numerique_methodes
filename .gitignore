@@ -3,6 +3,13 @@
 
 docs_text
 
+*/Untitled.ipynb
+
+statistiques_descriptives/corrige_analyse_bivariee.ipynb
+statistiques_descriptives/corrige_analyse_univariee.ipynb
+
+
+
 donnees/.~lock.*
 
 *.csv
@@ -12,11 +19,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+!manipuler_les_fichiers/donnees/etudiantes_universites_suisses_v3.csv
 !manipuler_les_fichiers/donnees/etudiantes_universites_suisses_v2.csv
 !statistiques_descriptives/data/hdv2003.csv
 !statistiques_descriptives/data/observations_mod.csv
-
-statistiques_descriptives/corrige_analyse_univariee_et_bivariee.ipynb
 
 
 # Environments

@@ -11,8 +11,8 @@ id,age,n_foyer,lecture_journal,parti,revenu_mensuel
 10,78,2,tous les jours,populiste,4262
 11,74,2,trois-quatre fois par semaine,écologiste,8733
 12,68,4,trois-quatre fois par semaine,écologiste,6482
-13,19,1,très rarement,droite,8462
-14,20,2,le week-end,écologiste,9797
+13,19,1,très rarement,droite,4000
+14,20,2,le week-end,écologiste,5600
 15,19,1,très rarement,centre,2600
 16,26,1,le week-end,écologiste,2621
 17,38,3,très rarement,écologiste,8883
@@ -33,7 +33,7 @@ id,age,n_foyer,lecture_journal,parti,revenu_mensuel
 32,40,2,tous les jours,populiste,28500
 33,37,1,trois-quatre fois par semaine,populiste,6453
 34,90,1,trois-quatre fois par semaine,gauche,6787
-35,21,2,de temps en temps,gauche,6970
+35,21,2,de temps en temps,gauche,4970
 36,36,2,trois-quatre fois par semaine,gauche,10863
 37,18,1,trois-quatre fois par semaine,gauche,1400
 38,77,2,très rarement,populiste,6441
@@ -44,7 +44,7 @@ id,age,n_foyer,lecture_journal,parti,revenu_mensuel
 43,73,1,de temps en temps,populiste,5737
 44,83,1,très rarement,centre,7299
 45,36,1,le week-end,gauche,8790
-46,23,1,le week-end,populiste,10260
+46,23,1,le week-end,populiste,5600
 47,56,3,trois-quatre fois par semaine,populiste,9177
 48,30,5,trois-quatre fois par semaine,populiste,11728
 49,41,2,très rarement,gauche,6478
@@ -62,7 +62,7 @@ id,age,n_foyer,lecture_journal,parti,revenu_mensuel
 61,58,4,très rarement,populiste,10029
 62,55,3,de temps en temps,centre,9083
 63,53,3,trois-quatre fois par semaine,populiste,3812
-64,29,1,tous les jours,écologiste,8913
+64,29,1,tous les jours,écologiste,2913
 65,32,1,tous les jours,écologiste,3944
 66,31,1,tous les jours,écologiste,3527
 67,52,4,de temps en temps,centre,8867
@@ -77,7 +77,7 @@ id,age,n_foyer,lecture_journal,parti,revenu_mensuel
 76,65,2,le week-end,centre,8836
 77,34,2,le week-end,gauche,6386
 78,83,3,tous les jours,droite,18500
-79,29,1,très rarement,gauche,8692
+79,29,1,très rarement,gauche,3692
 80,31,2,trois-quatre fois par semaine,centre,9552
 81,67,1,tous les jours,centre,19000
 82,55,3,très rarement,populiste,5843
@@ -91,7 +91,7 @@ id,age,n_foyer,lecture_journal,parti,revenu_mensuel
 90,27,1,trois-quatre fois par semaine,écologiste,6018
 91,56,5,le week-end,populiste,10619
 92,50,2,de temps en temps,populiste,5893
-93,21,4,le week-end,écologiste,9000
+93,21,1,le week-end,écologiste,2600
 94,73,3,trois-quatre fois par semaine,écologiste,8808
 95,30,2,de temps en temps,gauche,8599
 96,36,1,trois-quatre fois par semaine,gauche,7452
@@ -119,7 +119,7 @@ id,age,n_foyer,lecture_journal,parti,revenu_mensuel
 118,31,2,tous les jours,écologiste,9000
 119,44,1,très rarement,droite,15600
 120,27,1,trois-quatre fois par semaine,écologiste,6018
-121,20,5,le week-end,écologiste,10619
+121,20,5,le week-end,écologiste,7300
 122,50,4,de temps en temps,populiste,9600
 123,21,1,le week-end,écologiste,3047
 124,73,1,trois-quatre fois par semaine,populiste,2500
