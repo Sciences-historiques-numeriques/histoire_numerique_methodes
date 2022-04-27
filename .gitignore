@@ -1,6 +1,7 @@
 *.sqlite
 .DS_Store
-
+*.csv
+*.jpg
 docs_text
 
 */Untitled.ipynb
@@ -9,12 +10,15 @@ statistiques_descriptives/corrige_analyse_bivariee.ipynb
 #statistiques_descriptives/corrige_analyse_univariee.ipynb
 statistiques_descriptives/analyse_uni_bivariee_titanic.ipynb
 
+html_xml/titanic_passengers_scrape.ipynb
 
+*legislators*
+
+!statistiques_descriptives/data/liste_passagers_titanic.csv
 
 donnees/.~lock.*
 
-*.csv
-*.jpg
+
 
 __pycache__/
 *.py[cod]
