@@ -2,15 +2,17 @@
 .DS_Store
 *.csv
 *.jpg
+*.ods
+
 docs_text
 
 */Untitled.ipynb
 
 statistiques_descriptives/corrige_analyse_bivariee.ipynb
 #statistiques_descriptives/corrige_analyse_univariee.ipynb
-statistiques_descriptives/analyse_uni_bivariee_titanic.ipynb
+#statistiques_descriptives/analyse_univariee_titanic.ipynb
 
-html_xml/titanic_passengers_scrape.ipynb
+html_xml/titanic_listes.ipynb
 
 *legislators*
 
