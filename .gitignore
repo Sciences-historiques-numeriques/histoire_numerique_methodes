@@ -5,6 +5,7 @@
 *.ods
 *.paj
 *.jpg
+*.dta
 
 docs_text
 
@@ -14,7 +15,10 @@ statistiques_descriptives/corrige_analyse_bivariee.ipynb
 #statistiques_descriptives/corrige_analyse_univariee.ipynb
 #statistiques_descriptives/analyse_univariee_titanic.ipynb
 
-analyse_reseaux/commerce_international.ipynb
+
+#analyse_reseaux/commerce_international.ipynb
+analyse_reseaux/commerce_international_pajek.ipynb
+analyse_reseaux/commerce_international_stata.ipynb
 
 html_xml/titanic_listes.ipynb
 
