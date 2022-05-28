@@ -44,6 +44,12 @@ __pycache__/
 !statistiques_descriptives/data/observations_mod.csv
 
 !analyse_reseaux/data/TRADHIST/fb_bitrade_with_value_and_total_1945sqq_100_million_min.csv
+!analyse_reseaux/data/TRADHIST/tradhist_countries_enrichi.csv
+!analyse_reseaux/data/TRADHIST/tradhist_pop_gdp_1945sqq.csv
+
+!analyse_reseaux/data/world_trade_1994/countries_list.csv
+!analyse_reseaux/data/world_trade_1994/commerce_manufactures.csv
+!analyse_reseaux/data/world_trade_1994/commerce_cereales.csv
 
 
 # Environments
