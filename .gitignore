@@ -43,6 +43,8 @@ __pycache__/
 !statistiques_descriptives/data/hdv2003.csv
 !statistiques_descriptives/data/observations_mod.csv
 
+!analyse_reseaux/data/TRADHIST/fb_bitrade_with_value_and_total_1945sqq_100_million_min.csv
+
 
 # Environments
 .env
