@@ -16,12 +16,14 @@ docs_text
 #statistiques_descriptives/analyse_univariee_titanic.ipynb
 #statistiques_descriptives/titanic_analyse_exemple.ipynb
 
-
+statistiques_descriptives/analyse_bivariee_quanti_etudiantes_suisses.ipynb
 
 
 #analyse_reseaux/commerce_international.ipynb
 analyse_reseaux/commerce_1994_analyse_exemple.ipynb
 analyse_reseaux/commerce_international_stata.ipynb
+
+analyse_reseaux/commerce_international_read_stata.ipynb
 
 html_xml/titanic_listes.ipynb
 
@@ -62,3 +64,5 @@ venv.bak/
 # Jupyter Notebook
 
 .ipynb_checkpoints
+
+
