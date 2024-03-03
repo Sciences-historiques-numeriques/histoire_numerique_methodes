@@ -1,19 +1,26 @@
-name: py37_hn_sparql
+name: py3-11_hn_analysis
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - matplotlib
-  - pandas
+  - python=3.11
   - sparqlwrapper
-  - python=3.7
-  - rdflib
+  - pandas
+  - matplotlib
   - ipykernel
   - ipywidgets
   - seaborn
+  - plotly
   - ipyleaflet
   - networkx
-  - ipycytoscape
-  - ipysankeywidget
+  - ca-certificates
+  - certifi
+  - openssl
+  - itables
+  - netgraph
+  - pyvis
+  - geopandas
+  - geodatasets
+
 
     
