@@ -1,4 +1,5 @@
 *.sqlite
+*.db
 .DS_Store
 *.csv
 *.jpg
@@ -31,6 +32,7 @@ html_xml/titanic_listes.ipynb
 
 !statistiques_descriptives/data/liste_passagers_titanic.csv
 
+
 donnees/.~lock.*
 
 
@@ -43,6 +45,8 @@ __pycache__/
 !manipuler_les_fichiers/donnees/etudiantes_universites_suisses_v2.csv
 !statistiques_descriptives/data/hdv2003.csv
 !statistiques_descriptives/data/observations_mod.csv
+!statistiques_descriptives/data/observations_900.csv
+
 
 !analyse_reseaux/data/TRADHIST/fb_bitrade_with_value_and_total_1945sqq_100_million_min.csv
 !analyse_reseaux/data/TRADHIST/tradhist_countries_enrichi.csv

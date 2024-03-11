@@ -1,0 +1,901 @@
+"id","age","gender","revenu_mensuel","lecture_journal","parti"
+1,87,F,7410,trois-quatre fois par semaine,populiste
+2,31,H,4466,de temps en temps,gauche
+3,79,F,5515,trois-quatre fois par semaine,populiste
+4,26,H,1876,le week-end,écologiste
+5,75,F,3296,trois-quatre fois par semaine,gauche
+6,81,H,3017,trois-quatre fois par semaine,droite
+7,68,F,7569,tous les jours,gauche
+8,21,H,3338,très rarement,gauche
+9,22,F,2370,tous les jours,écologiste
+10,32,H,4146,le week-end,gauche
+11,64,H,13895,tous les jours,droite
+12,52,H,10346,de temps en temps,gauche
+13,48,F,9043,le week-end,populiste
+14,50,H,10012,tous les jours,gauche
+15,20,F,3979,trois-quatre fois par semaine,gauche
+16,66,H,10774,trois-quatre fois par semaine,centre
+17,85,F,6388,le week-end,gauche
+18,25,H,2027,le week-end,écologiste
+19,65,F,3042,le week-end,écologiste
+20,60,H,4615,le week-end,gauche
+21,52,F,9622,le week-end,écologiste
+22,20,H,2857,le week-end,écologiste
+23,22,F,2966,trois-quatre fois par semaine,écologiste
+24,63,H,5119,trois-quatre fois par semaine,populiste
+25,72,F,3506,très rarement,gauche
+26,89,H,6991,de temps en temps,gauche
+27,65,F,15694,tous les jours,droite
+28,62,H,9039,très rarement,gauche
+29,60,F,9578,tous les jours,écologiste
+30,22,H,2681,tous les jours,écologiste
+31,31,F,3460,tous les jours,droite
+32,80,H,8325,trois-quatre fois par semaine,droite
+33,58,F,8969,le week-end,écologiste
+34,56,H,5473,très rarement,écologiste
+35,75,F,4504,trois-quatre fois par semaine,populiste
+36,23,H,1748,de temps en temps,gauche
+37,57,F,5650,le week-end,écologiste
+38,78,H,5033,très rarement,populiste
+39,71,F,3939,le week-end,centre
+40,29,H,4753,le week-end,centre
+41,20,F,4592,tous les jours,écologiste
+42,41,H,7345,tous les jours,centre
+43,34,F,3614,de temps en temps,populiste
+44,32,H,2651,tous les jours,populiste
+45,47,F,3540,le week-end,écologiste
+46,68,H,3566,le week-end,populiste
+47,80,F,7395,trois-quatre fois par semaine,gauche
+48,70,H,8707,très rarement,populiste
+49,71,F,5810,trois-quatre fois par semaine,populiste
+50,32,H,2389,très rarement,gauche
+51,18,F,2270,tous les jours,écologiste
+52,74,H,4855,de temps en temps,droite
+53,70,F,5104,de temps en temps,gauche
+54,24,H,2822,de temps en temps,gauche
+55,35,F,8097,de temps en temps,populiste
+56,26,F,4442,tous les jours,écologiste
+57,89,F,5653,très rarement,populiste
+58,25,H,2158,très rarement,gauche
+59,21,F,4770,le week-end,populiste
+60,86,H,5368,tous les jours,droite
+61,78,F,6522,tous les jours,droite
+62,48,H,11858,tous les jours,populiste
+63,25,F,1946,de temps en temps,populiste
+64,28,H,1831,le week-end,écologiste
+65,30,F,1668,trois-quatre fois par semaine,gauche
+66,26,H,4007,trois-quatre fois par semaine,populiste
+67,37,H,9286,de temps en temps,droite
+68,60,H,9721,trois-quatre fois par semaine,populiste
+69,62,F,9727,tous les jours,écologiste
+70,50,F,8190,très rarement,écologiste
+71,60,F,12279,tous les jours,droite
+72,88,H,3649,de temps en temps,centre
+73,22,F,3303,trois-quatre fois par semaine,écologiste
+74,58,H,4158,de temps en temps,gauche
+75,68,F,3726,de temps en temps,gauche
+76,62,H,9132,très rarement,écologiste
+77,54,F,8019,très rarement,populiste
+78,72,H,2803,tous les jours,centre
+79,79,F,7438,très rarement,écologiste
+80,55,H,10780,de temps en temps,centre
+81,22,F,1745,très rarement,populiste
+82,64,H,14575,le week-end,droite
+83,69,F,4401,trois-quatre fois par semaine,populiste
+84,59,F,8719,le week-end,écologiste
+85,76,F,2603,le week-end,gauche
+86,55,H,10108,de temps en temps,populiste
+87,53,F,10991,tous les jours,droite
+88,77,H,8969,trois-quatre fois par semaine,centre
+89,77,F,6493,le week-end,populiste
+90,66,H,5072,de temps en temps,populiste
+91,82,F,4661,tous les jours,centre
+92,39,H,7685,de temps en temps,gauche
+93,37,F,4013,trois-quatre fois par semaine,gauche
+94,24,F,2052,de temps en temps,écologiste
+95,57,H,11332,trois-quatre fois par semaine,droite
+96,78,H,6627,le week-end,centre
+97,34,F,6306,trois-quatre fois par semaine,droite
+98,83,F,7341,tous les jours,écologiste
+99,60,F,8594,de temps en temps,populiste
+100,29,H,4062,trois-quatre fois par semaine,gauche
+101,45,F,7561,très rarement,populiste
+102,52,H,12741,trois-quatre fois par semaine,droite
+103,25,F,4883,tous les jours,gauche
+104,44,H,8746,très rarement,populiste
+105,68,H,29769,le week-end,droite
+106,26,H,3865,le week-end,populiste
+107,59,F,7311,tous les jours,écologiste
+108,66,F,5061,le week-end,écologiste
+109,24,F,4736,le week-end,populiste
+110,53,H,11749,tous les jours,gauche
+111,65,F,11370,le week-end,centre
+112,52,F,8490,de temps en temps,écologiste
+113,36,F,6962,très rarement,gauche
+114,50,H,10194,le week-end,gauche
+115,26,F,3946,le week-end,centre
+116,77,H,8580,tous les jours,écologiste
+117,68,F,8643,trois-quatre fois par semaine,écologiste
+118,35,H,4958,tous les jours,droite
+119,65,H,265334,tous les jours,droite
+120,46,H,8438,tous les jours,écologiste
+121,19,F,2913,de temps en temps,écologiste
+122,26,F,1809,le week-end,écologiste
+123,79,F,6644,tous les jours,gauche
+124,53,H,4723,trois-quatre fois par semaine,populiste
+125,88,F,7759,très rarement,centre
+126,24,F,2896,tous les jours,écologiste
+127,77,F,3149,trois-quatre fois par semaine,gauche
+128,84,H,4118,très rarement,populiste
+129,43,F,10459,trois-quatre fois par semaine,droite
+130,69,H,6579,tous les jours,gauche
+131,78,F,6907,tous les jours,écologiste
+132,72,H,8558,le week-end,écologiste
+133,83,F,5728,trois-quatre fois par semaine,centre
+134,25,H,4317,tous les jours,droite
+135,48,F,7966,le week-end,écologiste
+136,24,H,4882,de temps en temps,droite
+137,25,F,2804,tous les jours,populiste
+138,54,H,7958,tous les jours,écologiste
+139,68,F,6992,trois-quatre fois par semaine,populiste
+140,59,H,7906,trois-quatre fois par semaine,gauche
+141,27,F,2808,le week-end,populiste
+142,20,H,2621,de temps en temps,populiste
+143,89,F,6362,tous les jours,droite
+144,36,H,6115,trois-quatre fois par semaine,centre
+145,61,F,9331,très rarement,populiste
+146,76,H,6101,trois-quatre fois par semaine,populiste
+147,83,F,5791,le week-end,gauche
+148,86,H,4400,trois-quatre fois par semaine,droite
+149,32,F,3232,tous les jours,écologiste
+150,36,H,7858,très rarement,populiste
+151,42,F,4878,tous les jours,gauche
+152,57,H,11545,le week-end,gauche
+153,29,F,1573,trois-quatre fois par semaine,écologiste
+154,35,F,5521,trois-quatre fois par semaine,écologiste
+155,29,F,3642,le week-end,centre
+156,27,H,1539,le week-end,gauche
+157,67,F,6309,très rarement,écologiste
+158,26,H,3597,le week-end,écologiste
+159,61,F,12786,tous les jours,droite
+160,38,H,4166,trois-quatre fois par semaine,gauche
+161,75,F,5400,le week-end,écologiste
+162,66,H,5689,le week-end,écologiste
+163,59,F,7029,trois-quatre fois par semaine,écologiste
+164,22,F,2776,tous les jours,écologiste
+165,34,H,4939,tous les jours,droite
+166,24,H,4193,tous les jours,centre
+167,51,F,13457,trois-quatre fois par semaine,droite
+168,85,H,3089,de temps en temps,populiste
+169,60,F,8258,très rarement,gauche
+170,80,H,3908,trois-quatre fois par semaine,écologiste
+171,26,F,2656,le week-end,écologiste
+172,30,H,3137,tous les jours,centre
+173,79,F,6370,très rarement,droite
+174,52,H,11059,tous les jours,centre
+175,72,H,8563,le week-end,droite
+176,55,H,14352,de temps en temps,centre
+177,42,F,8727,tous les jours,gauche
+178,48,H,7779,tous les jours,droite
+179,69,F,4484,de temps en temps,gauche
+180,53,H,13276,de temps en temps,centre
+181,28,F,2708,très rarement,écologiste
+182,86,F,3911,le week-end,écologiste
+183,72,F,6119,tous les jours,droite
+184,25,H,3925,de temps en temps,écologiste
+185,76,F,3276,de temps en temps,populiste
+186,20,H,3471,le week-end,gauche
+187,27,F,2758,trois-quatre fois par semaine,droite
+188,78,H,8084,trois-quatre fois par semaine,gauche
+189,25,F,4959,très rarement,populiste
+190,36,H,8415,le week-end,droite
+191,90,F,8585,tous les jours,gauche
+192,55,H,10843,le week-end,centre
+193,24,F,4054,de temps en temps,populiste
+194,51,H,3957,le week-end,gauche
+195,73,F,5548,trois-quatre fois par semaine,centre
+196,70,H,10726,tous les jours,centre
+197,65,F,8105,très rarement,centre
+198,65,H,11284,trois-quatre fois par semaine,centre
+199,25,F,4362,le week-end,gauche
+200,31,H,1993,le week-end,gauche
+201,34,F,5403,tous les jours,droite
+202,87,H,7560,de temps en temps,populiste
+203,86,F,3517,très rarement,populiste
+204,68,H,9757,tous les jours,droite
+205,52,F,3791,trois-quatre fois par semaine,gauche
+206,64,H,75040,tous les jours,droite
+207,22,F,2277,le week-end,populiste
+208,43,H,7162,trois-quatre fois par semaine,populiste
+209,23,F,2891,trois-quatre fois par semaine,écologiste
+210,27,H,3135,de temps en temps,populiste
+211,66,F,5009,de temps en temps,populiste
+212,58,H,7129,tous les jours,écologiste
+213,38,F,8008,trois-quatre fois par semaine,droite
+214,58,H,9092,de temps en temps,écologiste
+215,34,F,5313,le week-end,populiste
+216,52,H,11167,de temps en temps,populiste
+217,86,F,4289,tous les jours,écologiste
+218,71,H,6754,trois-quatre fois par semaine,écologiste
+219,25,F,4963,le week-end,centre
+220,87,H,6542,tous les jours,gauche
+221,89,F,5178,tous les jours,écologiste
+222,48,H,10827,trois-quatre fois par semaine,droite
+223,50,F,3861,le week-end,gauche
+224,52,H,10745,tous les jours,populiste
+225,80,F,6934,tous les jours,centre
+226,84,H,8150,le week-end,populiste
+227,67,F,23004,très rarement,droite
+228,47,H,3805,de temps en temps,gauche
+229,34,F,8703,trois-quatre fois par semaine,droite
+230,50,H,9658,très rarement,populiste
+231,88,F,4232,tous les jours,écologiste
+232,40,H,9735,le week-end,centre
+233,82,F,4449,de temps en temps,populiste
+234,25,H,1579,le week-end,gauche
+235,81,F,8195,de temps en temps,écologiste
+236,46,H,9876,trois-quatre fois par semaine,centre
+237,42,F,10276,le week-end,droite
+238,86,H,6862,trois-quatre fois par semaine,droite
+239,41,F,9993,tous les jours,centre
+240,77,H,4564,trois-quatre fois par semaine,écologiste
+241,25,F,3153,très rarement,écologiste
+242,47,H,3642,très rarement,populiste
+243,22,F,2134,le week-end,écologiste
+244,67,H,14080,trois-quatre fois par semaine,droite
+245,80,F,4008,de temps en temps,gauche
+246,41,H,7460,très rarement,populiste
+247,69,F,5609,trois-quatre fois par semaine,écologiste
+248,53,F,11227,tous les jours,écologiste
+249,31,H,4783,tous les jours,droite
+250,78,H,8331,trois-quatre fois par semaine,écologiste
+251,35,F,5254,tous les jours,gauche
+252,86,H,3140,de temps en temps,populiste
+253,28,F,3365,trois-quatre fois par semaine,centre
+254,51,H,10374,le week-end,écologiste
+255,53,F,12055,le week-end,centre
+256,80,H,6743,très rarement,gauche
+257,69,F,5200,le week-end,écologiste
+258,79,H,7203,trois-quatre fois par semaine,populiste
+259,90,F,2536,très rarement,gauche
+260,67,H,5121,trois-quatre fois par semaine,gauche
+261,24,F,2598,de temps en temps,populiste
+262,36,H,7161,le week-end,centre
+263,84,F,7477,le week-end,centre
+264,69,H,11783,trois-quatre fois par semaine,droite
+265,57,F,14373,trois-quatre fois par semaine,droite
+266,36,H,4653,très rarement,centre
+267,81,F,8740,très rarement,gauche
+268,34,H,5323,tous les jours,centre
+269,59,F,4495,le week-end,écologiste
+270,66,H,10701,tous les jours,droite
+271,71,F,8918,tous les jours,écologiste
+272,51,H,9512,le week-end,droite
+273,52,F,5153,le week-end,populiste
+274,55,H,12509,tous les jours,centre
+275,84,F,3973,tous les jours,centre
+276,24,H,4861,de temps en temps,centre
+277,62,F,9768,le week-end,centre
+278,40,H,6610,le week-end,centre
+279,88,F,8161,le week-end,droite
+280,32,F,1736,de temps en temps,écologiste
+281,30,F,1682,très rarement,populiste
+282,29,H,4191,trois-quatre fois par semaine,gauche
+283,22,F,3225,le week-end,écologiste
+284,50,H,6250,le week-end,écologiste
+285,66,F,4643,tous les jours,écologiste
+286,73,H,7808,tous les jours,droite
+287,18,F,1509,tous les jours,populiste
+288,31,H,4187,de temps en temps,populiste
+289,40,F,4336,le week-end,gauche
+290,83,F,7653,le week-end,écologiste
+291,22,F,1770,le week-end,gauche
+292,90,H,8867,de temps en temps,populiste
+293,32,F,4678,le week-end,écologiste
+294,23,H,3438,de temps en temps,centre
+295,89,F,3691,de temps en temps,droite
+296,83,H,3864,trois-quatre fois par semaine,écologiste
+297,88,F,6167,trois-quatre fois par semaine,droite
+298,29,H,2397,le week-end,écologiste
+299,39,F,7054,très rarement,gauche
+300,59,H,3840,le week-end,gauche
+301,46,H,18169,tous les jours,droite
+302,31,H,3200,tous les jours,écologiste
+303,51,F,13279,trois-quatre fois par semaine,centre
+304,47,F,4564,le week-end,écologiste
+305,79,F,2947,trois-quatre fois par semaine,gauche
+306,58,H,4787,très rarement,populiste
+307,88,F,2931,tous les jours,centre
+308,43,H,7225,de temps en temps,gauche
+309,26,F,4920,trois-quatre fois par semaine,gauche
+310,53,H,7352,très rarement,populiste
+311,78,F,8155,le week-end,populiste
+312,88,H,4736,le week-end,populiste
+313,70,F,3459,de temps en temps,populiste
+314,42,H,8197,tous les jours,centre
+315,60,H,29828,tous les jours,droite
+316,67,H,8504,de temps en temps,populiste
+317,87,F,3411,de temps en temps,centre
+318,76,H,7220,le week-end,gauche
+319,20,F,4618,le week-end,populiste
+320,50,H,5254,tous les jours,populiste
+321,77,F,6860,tous les jours,gauche
+322,86,H,4940,de temps en temps,populiste
+323,51,F,6531,le week-end,gauche
+324,26,H,4075,trois-quatre fois par semaine,écologiste
+325,18,F,4614,trois-quatre fois par semaine,droite
+326,82,H,6457,trois-quatre fois par semaine,gauche
+327,37,F,7419,tous les jours,droite
+328,52,H,7228,tous les jours,centre
+329,54,F,9042,le week-end,gauche
+330,31,H,3556,très rarement,populiste
+331,58,F,8168,le week-end,écologiste
+332,75,H,3018,tous les jours,populiste
+333,81,F,6192,le week-end,centre
+334,87,H,7384,le week-end,centre
+335,44,F,4714,tous les jours,populiste
+336,90,H,8867,tous les jours,droite
+337,66,F,11415,tous les jours,centre
+338,70,H,7239,tous les jours,écologiste
+339,53,F,4170,le week-end,écologiste
+340,70,H,5885,trois-quatre fois par semaine,populiste
+341,25,F,2113,tous les jours,écologiste
+342,63,H,6108,de temps en temps,gauche
+343,73,F,2791,de temps en temps,populiste
+344,52,H,3928,trois-quatre fois par semaine,populiste
+345,88,F,3672,tous les jours,écologiste
+346,50,H,3806,trois-quatre fois par semaine,populiste
+347,57,F,8498,tous les jours,écologiste
+348,59,H,7547,le week-end,centre
+349,19,F,2221,très rarement,écologiste
+350,36,H,8366,tous les jours,centre
+351,20,F,4299,trois-quatre fois par semaine,populiste
+352,37,H,6725,le week-end,populiste
+353,60,F,28403,le week-end,droite
+354,81,H,4235,trois-quatre fois par semaine,centre
+355,26,F,3809,trois-quatre fois par semaine,populiste
+356,52,H,9597,tous les jours,écologiste
+357,18,F,3936,très rarement,gauche
+358,24,H,2105,tous les jours,écologiste
+359,54,F,8505,le week-end,populiste
+360,43,H,7377,trois-quatre fois par semaine,centre
+361,82,F,2771,le week-end,centre
+362,56,H,8888,le week-end,gauche
+363,25,F,4871,très rarement,gauche
+364,38,H,5006,très rarement,populiste
+365,70,F,5615,tous les jours,écologiste
+366,29,H,2375,tous les jours,écologiste
+367,28,F,1768,le week-end,gauche
+368,35,H,5647,très rarement,centre
+369,85,F,7444,de temps en temps,gauche
+370,55,H,11129,trois-quatre fois par semaine,écologiste
+371,70,F,3463,tous les jours,gauche
+372,30,H,4282,de temps en temps,gauche
+373,27,F,2989,trois-quatre fois par semaine,écologiste
+374,18,H,3118,tous les jours,droite
+375,19,F,4912,trois-quatre fois par semaine,écologiste
+376,31,H,4217,trois-quatre fois par semaine,populiste
+377,56,F,14991,le week-end,droite
+378,61,H,32391,tous les jours,droite
+379,35,F,5619,le week-end,populiste
+380,67,H,7461,le week-end,écologiste
+381,28,F,4999,le week-end,gauche
+382,54,H,9435,tous les jours,centre
+383,87,F,2564,tous les jours,gauche
+384,62,H,3551,trois-quatre fois par semaine,gauche
+385,22,F,2050,tous les jours,écologiste
+386,72,H,4779,très rarement,populiste
+387,88,F,8002,tous les jours,écologiste
+388,78,H,5257,le week-end,droite
+389,33,F,7517,le week-end,populiste
+390,89,H,8626,le week-end,centre
+391,18,F,2032,le week-end,gauche
+392,51,F,11530,tous les jours,écologiste
+393,40,F,7084,trois-quatre fois par semaine,gauche
+394,18,H,4847,trois-quatre fois par semaine,écologiste
+395,21,F,3976,trois-quatre fois par semaine,centre
+396,25,H,2961,de temps en temps,populiste
+397,79,F,8005,de temps en temps,populiste
+398,64,H,8904,trois-quatre fois par semaine,centre
+399,31,F,2830,tous les jours,centre
+400,39,H,7734,tous les jours,centre
+401,77,F,3924,tous les jours,écologiste
+402,60,H,11578,trois-quatre fois par semaine,populiste
+403,78,F,3036,le week-end,centre
+404,41,H,7324,très rarement,droite
+405,65,F,6879,de temps en temps,populiste
+406,68,H,4740,le week-end,gauche
+407,38,F,6083,de temps en temps,populiste
+408,35,H,7652,tous les jours,écologiste
+409,29,F,3147,de temps en temps,populiste
+410,61,H,6458,de temps en temps,populiste
+411,62,F,5813,le week-end,écologiste
+412,69,H,3314,très rarement,écologiste
+413,48,F,11537,très rarement,centre
+414,83,H,8761,le week-end,écologiste
+415,47,F,9865,tous les jours,centre
+416,81,H,4167,trois-quatre fois par semaine,centre
+417,56,F,3581,le week-end,écologiste
+418,66,H,10029,trois-quatre fois par semaine,centre
+419,67,F,12530,très rarement,centre
+420,34,H,3687,tous les jours,gauche
+421,90,F,7341,tous les jours,centre
+422,84,H,4159,très rarement,centre
+423,64,F,24169,trois-quatre fois par semaine,droite
+424,19,H,2740,de temps en temps,populiste
+425,82,F,3346,très rarement,droite
+426,42,H,4257,de temps en temps,gauche
+427,88,F,3966,de temps en temps,populiste
+428,74,H,2912,très rarement,droite
+429,64,F,3385,tous les jours,écologiste
+430,70,F,7705,très rarement,écologiste
+431,89,F,8706,de temps en temps,populiste
+432,67,H,2809,très rarement,populiste
+433,27,F,4238,très rarement,gauche
+434,52,H,125023,trois-quatre fois par semaine,droite
+435,23,F,2212,le week-end,écologiste
+436,46,H,10975,tous les jours,centre
+437,83,F,4497,de temps en temps,gauche
+438,90,H,6968,très rarement,populiste
+439,58,F,11418,trois-quatre fois par semaine,centre
+440,90,H,7123,très rarement,populiste
+441,73,F,7888,le week-end,écologiste
+442,66,H,15103,le week-end,droite
+443,24,F,4766,de temps en temps,centre
+444,24,H,2123,trois-quatre fois par semaine,droite
+445,69,F,6704,trois-quatre fois par semaine,centre
+446,27,H,4911,trois-quatre fois par semaine,droite
+447,18,F,1666,très rarement,populiste
+448,83,H,4644,très rarement,populiste
+449,84,F,8507,très rarement,populiste
+450,67,H,4912,trois-quatre fois par semaine,écologiste
+451,29,F,2469,trois-quatre fois par semaine,droite
+452,26,H,1886,le week-end,écologiste
+453,46,F,8285,tous les jours,droite
+454,52,H,5591,le week-end,centre
+455,27,F,4900,le week-end,populiste
+456,48,H,8086,le week-end,gauche
+457,44,F,7081,de temps en temps,populiste
+458,74,H,7037,trois-quatre fois par semaine,gauche
+459,39,F,9493,de temps en temps,centre
+460,78,H,6383,trois-quatre fois par semaine,droite
+461,33,F,7276,tous les jours,droite
+462,34,H,7067,de temps en temps,populiste
+463,55,F,8691,tous les jours,centre
+464,53,H,6606,trois-quatre fois par semaine,centre
+465,43,F,8386,tous les jours,droite
+466,49,H,8820,de temps en temps,écologiste
+467,28,F,2163,le week-end,populiste
+468,60,H,5048,très rarement,populiste
+469,54,F,6015,le week-end,populiste
+470,75,H,7966,de temps en temps,gauche
+471,39,F,8304,trois-quatre fois par semaine,écologiste
+472,88,H,5356,tous les jours,droite
+473,23,F,1627,trois-quatre fois par semaine,gauche
+474,25,H,4734,trois-quatre fois par semaine,écologiste
+475,88,F,7280,très rarement,populiste
+476,89,H,6350,de temps en temps,populiste
+477,79,F,4417,trois-quatre fois par semaine,gauche
+478,73,H,6778,de temps en temps,populiste
+479,74,F,2807,trois-quatre fois par semaine,centre
+480,65,H,7663,trois-quatre fois par semaine,populiste
+481,44,F,7083,tous les jours,écologiste
+482,85,H,4615,de temps en temps,populiste
+483,24,H,1819,le week-end,droite
+484,33,H,8001,très rarement,écologiste
+485,75,F,3504,tous les jours,écologiste
+486,67,H,10923,le week-end,centre
+487,56,F,5755,tous les jours,écologiste
+488,60,H,15182,trois-quatre fois par semaine,droite
+489,71,F,5376,le week-end,populiste
+490,18,H,3087,tous les jours,centre
+491,48,F,11334,le week-end,écologiste
+492,73,H,4864,tous les jours,centre
+493,58,F,11320,trois-quatre fois par semaine,écologiste
+494,35,H,6321,le week-end,centre
+495,55,F,12539,le week-end,centre
+496,47,H,4543,tous les jours,gauche
+497,81,F,5464,trois-quatre fois par semaine,gauche
+498,78,H,4589,le week-end,centre
+499,54,F,6403,de temps en temps,populiste
+500,75,H,6696,trois-quatre fois par semaine,centre
+501,21,H,1621,tous les jours,droite
+502,30,H,2724,tous les jours,gauche
+503,70,F,11850,trois-quatre fois par semaine,droite
+504,62,F,8732,le week-end,écologiste
+505,27,F,2214,de temps en temps,droite
+506,80,H,2525,tous les jours,centre
+507,90,F,5996,tous les jours,gauche
+508,85,H,5551,tous les jours,droite
+509,50,F,9638,tous les jours,écologiste
+510,74,H,3409,le week-end,écologiste
+511,84,H,4644,tous les jours,droite
+512,28,H,3786,tous les jours,droite
+513,18,F,3524,tous les jours,écologiste
+514,37,H,8588,tous les jours,gauche
+515,19,F,3663,de temps en temps,centre
+516,49,H,6108,de temps en temps,gauche
+517,71,F,2689,très rarement,écologiste
+518,47,H,5997,de temps en temps,gauche
+519,36,F,8804,trois-quatre fois par semaine,populiste
+520,70,H,5648,tous les jours,gauche
+521,50,F,11641,de temps en temps,gauche
+522,71,H,5456,tous les jours,droite
+523,51,F,8354,le week-end,centre
+524,62,H,11465,très rarement,populiste
+525,31,F,3142,le week-end,écologiste
+526,31,H,2499,de temps en temps,populiste
+527,32,F,3325,le week-end,centre
+528,28,H,4772,tous les jours,droite
+529,40,F,5452,très rarement,populiste
+530,56,H,11156,le week-end,écologiste
+531,40,F,4611,le week-end,écologiste
+532,70,H,6409,le week-end,populiste
+533,63,F,5300,trois-quatre fois par semaine,populiste
+534,89,H,6187,trois-quatre fois par semaine,centre
+535,31,F,1539,très rarement,écologiste
+536,74,H,8587,très rarement,gauche
+537,62,F,4407,très rarement,gauche
+538,34,H,6217,trois-quatre fois par semaine,droite
+539,60,F,12110,très rarement,centre
+540,49,H,9713,de temps en temps,populiste
+541,62,F,10193,tous les jours,gauche
+542,42,H,7305,très rarement,populiste
+543,35,F,7113,trois-quatre fois par semaine,écologiste
+544,64,H,14293,trois-quatre fois par semaine,droite
+545,59,F,14964,tous les jours,droite
+546,78,H,8775,très rarement,gauche
+547,48,F,6382,très rarement,écologiste
+548,38,H,7185,très rarement,gauche
+549,26,F,2301,trois-quatre fois par semaine,droite
+550,67,H,12465,tous les jours,centre
+551,52,F,7061,trois-quatre fois par semaine,gauche
+552,42,H,6329,le week-end,écologiste
+553,85,H,7972,trois-quatre fois par semaine,droite
+554,72,H,8952,tous les jours,droite
+555,90,F,8266,tous les jours,centre
+556,63,H,11832,tous les jours,centre
+557,20,F,3027,de temps en temps,populiste
+558,21,H,2299,le week-end,écologiste
+559,33,F,7246,trois-quatre fois par semaine,écologiste
+560,79,H,5549,trois-quatre fois par semaine,populiste
+561,23,F,4301,trois-quatre fois par semaine,centre
+562,41,H,7240,de temps en temps,écologiste
+563,53,F,10925,de temps en temps,gauche
+564,32,H,4657,de temps en temps,centre
+565,37,F,5237,tous les jours,écologiste
+566,84,H,3098,tous les jours,écologiste
+567,78,F,6672,le week-end,populiste
+568,30,H,1728,tous les jours,centre
+569,59,F,8634,tous les jours,gauche
+570,59,F,3569,tous les jours,écologiste
+571,88,F,4518,trois-quatre fois par semaine,écologiste
+572,50,H,9348,de temps en temps,centre
+573,23,F,3500,tous les jours,centre
+574,85,H,8185,le week-end,droite
+575,46,F,6206,le week-end,centre
+576,65,H,14860,tous les jours,droite
+577,80,F,5727,le week-end,gauche
+578,51,H,12364,trois-quatre fois par semaine,centre
+579,73,F,3657,le week-end,écologiste
+580,75,H,8541,tous les jours,droite
+581,35,H,5037,tous les jours,droite
+582,53,H,3658,le week-end,écologiste
+583,83,F,3189,de temps en temps,populiste
+584,80,H,8154,trois-quatre fois par semaine,droite
+585,70,F,4522,de temps en temps,populiste
+586,46,H,9993,trois-quatre fois par semaine,droite
+587,62,F,4645,tous les jours,écologiste
+588,74,F,5263,tous les jours,écologiste
+589,42,F,7373,tous les jours,gauche
+590,87,H,8107,tous les jours,populiste
+591,60,F,3858,de temps en temps,gauche
+592,78,H,3018,tous les jours,gauche
+593,52,F,12123,trois-quatre fois par semaine,droite
+594,62,H,15895,tous les jours,centre
+595,82,F,3922,très rarement,gauche
+596,88,H,6402,très rarement,droite
+597,20,F,2564,tous les jours,gauche
+598,84,F,4228,tous les jours,écologiste
+599,54,F,4506,de temps en temps,gauche
+600,60,H,6275,très rarement,populiste
+601,34,F,5582,tous les jours,droite
+602,64,H,9452,très rarement,centre
+603,34,F,8226,trois-quatre fois par semaine,gauche
+604,51,H,10773,le week-end,écologiste
+605,90,F,5985,tous les jours,populiste
+606,34,H,6793,trois-quatre fois par semaine,droite
+607,87,F,3514,très rarement,populiste
+608,62,H,4306,tous les jours,gauche
+609,46,F,9786,le week-end,centre
+610,42,H,9210,tous les jours,centre
+611,50,F,6399,très rarement,gauche
+612,42,H,4251,de temps en temps,gauche
+613,50,F,8551,très rarement,gauche
+614,48,H,4736,trois-quatre fois par semaine,populiste
+615,72,F,8168,tous les jours,droite
+616,54,F,4504,le week-end,écologiste
+617,35,F,7332,le week-end,gauche
+618,35,H,4960,de temps en temps,populiste
+619,26,F,1519,tous les jours,centre
+620,43,H,6001,tous les jours,écologiste
+621,21,F,2778,le week-end,écologiste
+622,61,H,8741,le week-end,populiste
+623,20,H,1506,trois-quatre fois par semaine,droite
+624,90,H,3652,tous les jours,écologiste
+625,43,F,8024,trois-quatre fois par semaine,gauche
+626,47,H,5213,trois-quatre fois par semaine,populiste
+627,88,F,3323,le week-end,centre
+628,40,H,7669,tous les jours,centre
+629,27,F,4213,le week-end,écologiste
+630,19,H,4068,très rarement,populiste
+631,83,F,6878,le week-end,centre
+632,19,H,2452,tous les jours,écologiste
+633,42,F,5469,le week-end,écologiste
+634,46,H,3760,trois-quatre fois par semaine,populiste
+635,86,F,5421,très rarement,gauche
+636,59,H,8713,de temps en temps,populiste
+637,65,F,6559,le week-end,écologiste
+638,74,H,4210,tous les jours,écologiste
+639,62,F,13017,tous les jours,centre
+640,25,H,2181,le week-end,centre
+641,50,H,12550,trois-quatre fois par semaine,droite
+642,21,H,4833,tous les jours,centre
+643,83,F,5547,le week-end,populiste
+644,51,F,6167,trois-quatre fois par semaine,écologiste
+645,35,F,9119,trois-quatre fois par semaine,centre
+646,78,H,5171,le week-end,centre
+647,43,F,5307,de temps en temps,centre
+648,41,H,4862,de temps en temps,centre
+649,45,F,7740,trois-quatre fois par semaine,droite
+650,38,H,5686,le week-end,droite
+651,42,H,21697,trois-quatre fois par semaine,droite
+652,42,H,4796,trois-quatre fois par semaine,écologiste
+653,59,F,9284,trois-quatre fois par semaine,écologiste
+654,35,H,8909,trois-quatre fois par semaine,populiste
+655,80,H,4709,tous les jours,droite
+656,51,H,5844,très rarement,centre
+657,19,F,3953,le week-end,droite
+658,23,H,3280,tous les jours,gauche
+659,81,F,5679,très rarement,gauche
+660,59,H,9201,de temps en temps,centre
+661,21,F,1777,très rarement,écologiste
+662,42,H,5264,très rarement,gauche
+663,23,F,2763,trois-quatre fois par semaine,gauche
+664,21,H,1996,de temps en temps,droite
+665,80,F,5700,trois-quatre fois par semaine,populiste
+666,57,H,4817,de temps en temps,gauche
+667,72,F,8188,tous les jours,gauche
+668,77,H,7504,tous les jours,populiste
+669,33,F,5934,le week-end,écologiste
+670,71,H,3754,tous les jours,gauche
+671,32,F,4961,tous les jours,écologiste
+672,72,H,6569,trois-quatre fois par semaine,centre
+673,78,F,4863,de temps en temps,populiste
+674,33,H,7073,le week-end,écologiste
+675,47,F,5212,le week-end,écologiste
+676,73,H,3302,tous les jours,centre
+677,66,F,10470,trois-quatre fois par semaine,centre
+678,86,H,6420,le week-end,centre
+679,39,H,8514,le week-end,droite
+680,23,H,3320,trois-quatre fois par semaine,gauche
+681,46,F,3538,très rarement,populiste
+682,55,F,5800,tous les jours,écologiste
+683,39,F,6586,de temps en temps,gauche
+684,85,H,6364,tous les jours,gauche
+685,73,F,4265,trois-quatre fois par semaine,populiste
+686,79,H,4020,de temps en temps,centre
+687,63,F,13264,trois-quatre fois par semaine,droite
+688,82,H,2581,très rarement,gauche
+689,64,F,12945,le week-end,centre
+690,74,H,4127,très rarement,gauche
+691,45,F,9848,tous les jours,droite
+692,23,H,3950,le week-end,écologiste
+693,28,H,2537,tous les jours,droite
+694,85,H,3862,de temps en temps,écologiste
+695,72,F,6438,tous les jours,écologiste
+696,34,H,3705,le week-end,populiste
+697,89,H,3690,de temps en temps,droite
+698,58,H,11860,le week-end,droite
+699,34,F,7395,le week-end,écologiste
+700,62,H,6401,très rarement,populiste
+701,79,F,5698,trois-quatre fois par semaine,écologiste
+702,59,H,6120,le week-end,gauche
+703,31,F,4065,trois-quatre fois par semaine,gauche
+704,76,H,7409,trois-quatre fois par semaine,écologiste
+705,30,F,1515,de temps en temps,populiste
+706,61,H,5660,de temps en temps,populiste
+707,46,F,6151,très rarement,populiste
+708,77,H,6457,de temps en temps,centre
+709,68,F,5503,de temps en temps,populiste
+710,68,H,24370,trois-quatre fois par semaine,droite
+711,90,F,3047,tous les jours,écologiste
+712,51,H,5246,très rarement,populiste
+713,30,F,4376,trois-quatre fois par semaine,droite
+714,33,H,4771,très rarement,populiste
+715,32,F,4581,tous les jours,écologiste
+716,58,H,13237,le week-end,centre
+717,87,F,5792,de temps en temps,populiste
+718,24,H,4863,trois-quatre fois par semaine,gauche
+719,80,F,5052,trois-quatre fois par semaine,écologiste
+720,65,H,4396,le week-end,écologiste
+721,40,F,6348,de temps en temps,populiste
+722,76,H,3948,le week-end,écologiste
+723,68,F,3166,tous les jours,écologiste
+724,57,H,11933,trois-quatre fois par semaine,centre
+725,64,F,7261,de temps en temps,centre
+726,37,H,4427,tous les jours,écologiste
+727,24,F,3683,tous les jours,centre
+728,84,H,4027,très rarement,populiste
+729,41,F,8021,le week-end,droite
+730,66,H,3399,le week-end,populiste
+731,57,F,10514,le week-end,écologiste
+732,58,H,15486,trois-quatre fois par semaine,droite
+733,66,F,11869,trois-quatre fois par semaine,droite
+734,52,H,5802,le week-end,écologiste
+735,18,F,3919,très rarement,populiste
+736,60,H,8466,tous les jours,gauche
+737,21,F,4350,tous les jours,centre
+738,63,F,7736,le week-end,écologiste
+739,18,H,3575,trois-quatre fois par semaine,droite
+740,34,H,7157,très rarement,populiste
+741,29,F,2211,de temps en temps,gauche
+742,69,H,3990,trois-quatre fois par semaine,populiste
+743,23,F,4065,de temps en temps,populiste
+744,39,H,5139,trois-quatre fois par semaine,écologiste
+745,77,F,4051,trois-quatre fois par semaine,droite
+746,22,H,1920,très rarement,gauche
+747,52,F,7134,tous les jours,centre
+748,47,H,10906,tous les jours,centre
+749,54,F,3571,le week-end,populiste
+750,61,H,5112,très rarement,gauche
+751,84,F,3278,tous les jours,écologiste
+752,78,H,7315,très rarement,populiste
+753,60,H,15763,le week-end,droite
+754,24,H,3703,tous les jours,droite
+755,86,F,4186,très rarement,populiste
+756,46,H,5507,trois-quatre fois par semaine,centre
+757,33,F,8457,de temps en temps,populiste
+758,35,H,7987,tous les jours,écologiste
+759,24,F,4745,tous les jours,droite
+760,73,H,6192,trois-quatre fois par semaine,populiste
+761,37,F,8974,le week-end,écologiste
+762,57,H,4042,de temps en temps,populiste
+763,34,F,4345,très rarement,écologiste
+764,74,H,5130,de temps en temps,centre
+765,59,F,5829,trois-quatre fois par semaine,écologiste
+766,42,H,7175,le week-end,populiste
+767,49,F,9877,tous les jours,populiste
+768,48,H,6626,le week-end,centre
+769,26,F,4947,le week-end,centre
+770,81,H,3887,très rarement,populiste
+771,57,F,10717,très rarement,gauche
+772,64,H,7912,trois-quatre fois par semaine,écologiste
+773,85,F,3058,très rarement,centre
+774,35,H,4001,le week-end,écologiste
+775,85,F,6184,le week-end,gauche
+776,69,H,15459,trois-quatre fois par semaine,droite
+777,38,H,9281,trois-quatre fois par semaine,droite
+778,69,H,4211,trois-quatre fois par semaine,écologiste
+779,78,F,6295,très rarement,populiste
+780,46,H,7626,tous les jours,centre
+781,78,F,2525,tous les jours,gauche
+782,50,H,4476,le week-end,écologiste
+783,68,F,14533,tous les jours,droite
+784,53,F,11271,de temps en temps,écologiste
+785,77,F,5445,tous les jours,populiste
+786,45,H,7467,tous les jours,écologiste
+787,24,F,4302,le week-end,droite
+788,75,H,4445,très rarement,populiste
+789,52,F,11559,très rarement,populiste
+790,27,H,3573,trois-quatre fois par semaine,gauche
+791,77,F,5236,très rarement,centre
+792,60,H,18168,trois-quatre fois par semaine,droite
+793,47,F,8280,très rarement,populiste
+794,70,H,21107,très rarement,droite
+795,53,F,10448,le week-end,populiste
+796,69,H,4884,très rarement,écologiste
+797,27,F,4219,tous les jours,gauche
+798,85,H,4634,de temps en temps,populiste
+799,71,F,6643,très rarement,gauche
+800,75,H,4721,de temps en temps,gauche
+801,65,F,25682,le week-end,droite
+802,55,H,4519,de temps en temps,écologiste
+803,60,F,9010,très rarement,centre
+804,28,H,2765,trois-quatre fois par semaine,populiste
+805,18,H,4306,tous les jours,droite
+806,42,H,6722,trois-quatre fois par semaine,centre
+807,29,F,3899,tous les jours,écologiste
+808,45,F,6630,très rarement,écologiste
+809,70,F,8879,le week-end,populiste
+810,85,H,6618,le week-end,centre
+811,76,F,7413,trois-quatre fois par semaine,droite
+812,42,F,8445,tous les jours,écologiste
+813,34,F,5042,le week-end,centre
+814,39,H,6250,de temps en temps,populiste
+815,85,F,6153,de temps en temps,gauche
+816,36,H,6656,trois-quatre fois par semaine,droite
+817,89,F,3931,le week-end,populiste
+818,76,H,3675,tous les jours,écologiste
+819,39,H,6312,tous les jours,droite
+820,37,H,7688,le week-end,droite
+821,22,F,4884,le week-end,centre
+822,75,H,6869,trois-quatre fois par semaine,droite
+823,44,F,5600,trois-quatre fois par semaine,centre
+824,18,H,4873,tous les jours,droite
+825,66,F,8136,de temps en temps,gauche
+826,55,H,5911,le week-end,populiste
+827,44,F,4815,de temps en temps,centre
+828,63,H,3228,le week-end,écologiste
+829,20,F,2231,le week-end,populiste
+830,84,H,6189,tous les jours,gauche
+831,87,F,2744,de temps en temps,gauche
+832,77,H,6649,trois-quatre fois par semaine,droite
+833,81,F,6271,tous les jours,populiste
+834,51,H,10740,de temps en temps,populiste
+835,65,F,6210,trois-quatre fois par semaine,écologiste
+836,82,H,5295,trois-quatre fois par semaine,droite
+837,67,H,9506,trois-quatre fois par semaine,droite
+838,76,H,4726,trois-quatre fois par semaine,centre
+839,62,F,9976,tous les jours,écologiste
+840,45,F,3674,le week-end,écologiste
+841,52,F,12924,tous les jours,droite
+842,84,H,8536,trois-quatre fois par semaine,centre
+843,89,F,4850,le week-end,gauche
+844,47,H,5754,de temps en temps,écologiste
+845,37,F,9887,le week-end,droite
+846,18,H,2340,le week-end,écologiste
+847,77,F,3003,tous les jours,gauche
+848,78,H,7844,de temps en temps,gauche
+849,86,F,3245,tous les jours,écologiste
+850,90,F,4188,de temps en temps,écologiste
+851,65,F,7518,le week-end,populiste
+852,79,H,7409,trois-quatre fois par semaine,droite
+853,65,F,3774,tous les jours,écologiste
+854,18,F,3462,trois-quatre fois par semaine,écologiste
+855,72,F,4176,tous les jours,centre
+856,59,H,8391,trois-quatre fois par semaine,écologiste
+857,38,F,9954,tous les jours,droite
+858,75,H,6617,de temps en temps,centre
+859,35,F,5392,tous les jours,centre
+860,42,H,6531,très rarement,centre
+861,36,F,3585,tous les jours,écologiste
+862,79,H,3565,tous les jours,gauche
+863,58,F,10339,de temps en temps,gauche
+864,74,H,6439,tous les jours,droite
+865,20,F,4266,très rarement,gauche
+866,73,H,5705,le week-end,populiste
+867,20,F,2815,le week-end,populiste
+868,75,H,8059,le week-end,centre
+869,70,F,13445,très rarement,droite
+870,51,H,8270,trois-quatre fois par semaine,écologiste
+871,66,F,25943,de temps en temps,droite
+872,46,H,4410,très rarement,gauche
+873,46,F,9287,trois-quatre fois par semaine,droite
+874,85,H,2636,tous les jours,centre
+875,45,F,4338,le week-end,populiste
+876,64,H,12525,trois-quatre fois par semaine,centre
+877,30,F,3145,trois-quatre fois par semaine,écologiste
+878,30,H,2809,trois-quatre fois par semaine,droite
+879,26,F,2979,de temps en temps,centre
+880,70,H,6404,trois-quatre fois par semaine,écologiste
+881,49,F,9523,de temps en temps,populiste
+882,30,F,3681,tous les jours,écologiste
+883,51,F,10802,très rarement,écologiste
+884,21,H,3997,tous les jours,gauche
+885,45,F,10245,tous les jours,droite
+886,63,H,6446,trois-quatre fois par semaine,gauche
+887,55,F,15087,tous les jours,centre
+888,34,H,5988,très rarement,populiste
+889,29,F,1936,de temps en temps,populiste
+890,66,H,4012,tous les jours,populiste
+891,57,F,7544,le week-end,gauche
+892,47,H,10703,tous les jours,centre
+893,39,F,4063,le week-end,écologiste
+894,29,H,1693,très rarement,populiste
+895,62,F,8840,tous les jours,centre
+896,19,H,1661,tous les jours,droite
+897,88,F,7952,trois-quatre fois par semaine,gauche
+898,18,H,3552,tous les jours,centre
+899,59,F,9018,le week-end,gauche
+900,83,H,7330,le week-end,populiste
