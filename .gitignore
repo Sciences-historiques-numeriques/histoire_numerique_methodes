@@ -47,6 +47,7 @@ __pycache__/
 !statistiques_descriptives/data/observations_mod.csv
 !statistiques_descriptives/data/observations_900.csv
 
+statistiques_descriptives/data/populations.db
 
 !analyse_reseaux/data/TRADHIST/fb_bitrade_with_value_and_total_1945sqq_100_million_min.csv
 !analyse_reseaux/data/TRADHIST/tradhist_countries_enrichi.csv
