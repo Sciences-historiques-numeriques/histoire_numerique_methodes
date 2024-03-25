@@ -6,7 +6,7 @@
 #  'sciences_historiques_numeriques/histoire_numerique/sparql' folder
 
 
-
+import time
 
 from SPARQLWrapper import SPARQLWrapper, SPARQLWrapper2, JSON, TURTLE, XML, RDFXML
 
@@ -106,4 +106,14 @@ def list_to_dash_separated_values (list):
         print(e)
     else:        
         return '\n'.join(dashedValuesList)
+
+    
+    
+    
+### Fonction qui récupère et met en forme le temps au moment de l'exécution
+
+
+def timestamp_formatted_for_file_name():
+    is_now = time.strftime('%Y%m%d_%H%M%S')
+    return is_now
 
