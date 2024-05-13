@@ -13,14 +13,15 @@ dependencies:
   - plotly
   - ipyleaflet
   - networkx
-  - ca-certificates
-  - certifi
-  - openssl
   - itables
   - netgraph
   - pyvis
   - geopandas
   - geodatasets
+  - pygwalker
+  - pip
+  - pip:
+    - fanalysis
 
 
     
