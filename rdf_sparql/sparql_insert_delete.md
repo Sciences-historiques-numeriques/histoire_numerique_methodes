@@ -3,7 +3,7 @@
 
 
 * [SPARQL 1.1 Query Language](https://www.w3.org/TR/sparql11-query/)
-* [SPARQL 1.1 Query Language](https://www.w3.org/TR/sparql11-update/)
+* [SPARQL 1.1 Update Language](https://www.w3.org/TR/sparql11-update/)
 
 <br/>
 
