@@ -25,10 +25,12 @@ statistiques_descriptives/analyse_bivariee_quanti_etudiantes_suisses.ipynb
 
 
 #analyse_reseaux/commerce_international.ipynb
-analyse_reseaux/commerce_1994_analyse_exemple.ipynb
+analyse_reseaux/pajek_book/commerce_1994_analyse_exemple.ipynb
 analyse_reseaux/commerce_international_stata.ipynb
 
-analyse_reseaux/commerce_international_read_stata.ipynb
+analyse_reseaux/pajek_book/commerce_1994_analyse_exemple.ipynb
+
+
 
 html_xml/titanic_listes.ipynb
 
