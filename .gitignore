@@ -23,6 +23,7 @@ docs_text
 
 statistiques_descriptives/analyse_bivariee_quanti_etudiantes_suisses.ipynb
 
+analyse_reseaux/reseaux_florence_materiaux.ipynb
 
 #analyse_reseaux/commerce_international.ipynb
 analyse_reseaux/pajek_book/commerce_1994_analyse_exemple.ipynb
