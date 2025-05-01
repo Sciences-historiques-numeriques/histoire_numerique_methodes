@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 # MultiGraph: Undirected graphs with self loops and parallel edges
 # https://networkx.org/documentation/stable/reference/classes/index.html
 
-def basic_properties(G):
+def basic_graph_properties(G):
 
     pprint.pprint({'is_multigraph':G.is_multigraph(), 
         'is_directed':G.is_directed(), 
@@ -41,7 +41,7 @@ def remove_node_attributes(G, attrs_to_remove):
 
 ###  Describe and plot distribution of integers' list
 
-def describe_plot_integers_distribution(il, width, heigth):
+def describe_plot_integers_distribution(il, plot_width, plot_heigth, plot_title):
 
     sl_id = pd.Series(il)
     print(sl_id.describe())
@@ -50,16 +50,22 @@ def describe_plot_integers_distribution(il, width, heigth):
     df_l = pd.DataFrame(sl_id.groupby(by=sl_id).size().items())
     df_l.columns=['value', 'number']
 
-    fig, ax = plt.subplots(1,1, figsize=(width,heigth))
+    fig, ax = plt.subplots(1,1, figsize=(plot_width,plot_heigth))
 
     plt.bar(df_l.value, df_l.number)
 
+    # ax.xaxis.get_major_locator().set_params(integer=True)
+    plt.xticks(range(min(df_l.value), max(df_l.value)+1));
     ax.yaxis.get_major_locator().set_params(integer=True)
     ax.bar_label(ax.containers[-1])
     plt.xticks(size=8)
-    plt.xlabel('Indegree', size=9)
+    plt.xlabel('Values', size=9)
     plt.yticks(size=8)
-    plt.ylabel('Number of nodes', size=9)
-    plt.title('Indegree Distribution', size=10)
+    plt.ylabel('Number of values', size=9)
+    plt.title(plot_title, size=10)
+
+    plt.margins(x=0.02, y=0.1)
+
+    plt.tight_layout()
 
     plt.show()           
