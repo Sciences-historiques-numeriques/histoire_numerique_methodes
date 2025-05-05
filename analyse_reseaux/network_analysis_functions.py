@@ -3,6 +3,9 @@ This is a collection of useful functions
 to be used for graph analysis
 """
 
+### [2 mai 2025] Master version — this file must be always up to date until I have a pip/conda repo
+
+
 import pprint as pprint
 import networkx as nx
 import pandas as pd
