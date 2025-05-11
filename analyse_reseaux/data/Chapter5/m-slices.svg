@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Title: 4. D:\My Projects\lesboek definitief\Chapter5\Fig4.net (108) -->
+<!-- Creator: Pajek: http://vlado.fmf.uni-lj.si/pub/networks/pajek/ -->
+<!-- CreationDate: 05-08-2003, 10:52:50 -->
+<svg xml:space="preserve" width="710" height="748">
+<g transform="scale(1)">
+<rect width="710" height="748" style="fill:rgb(255,255,255);stroke:rgb(127,127,127);" />
+
+
+<g id="0">
+<!-- Edge:     1   73 -->
+<line x1="327.52" y1="355.75" x2="328.09" y2="467.20" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     7   73 -->
+<line x1="365.93" y1="357.54" x2="328.09" y2="467.20" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     1   68 -->
+<line x1="327.52" y1="355.75" x2="357.20" y2="430.77" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    28   68 -->
+<line x1="336.54" y1="309.82" x2="357.20" y2="430.77" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     1   28 -->
+<line x1="327.52" y1="355.75" x2="336.54" y2="309.82" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     1  104 -->
+<line x1="327.52" y1="355.75" x2="233.45" y2="338.47" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    63  104 -->
+<line x1="283.43" y1="258.88" x2="233.45" y2="338.47" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     1   63 -->
+<line x1="327.52" y1="355.75" x2="283.43" y2="258.88" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     1   93 -->
+<line x1="327.52" y1="355.75" x2="212.86" y2="342.21" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     1  103 -->
+<line x1="327.52" y1="355.75" x2="220.74" y2="324.93" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    63   93 -->
+<line x1="283.43" y1="258.88" x2="212.86" y2="342.21" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    63  103 -->
+<line x1="283.43" y1="258.88" x2="220.74" y2="324.93" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     1   50 -->
+<line x1="327.52" y1="355.75" x2="437.64" y2="293.59" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     7   50 -->
+<line x1="365.93" y1="357.54" x2="437.64" y2="293.59" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    23   50 -->
+<line x1="398.95" y1="265.02" x2="437.64" y2="293.59" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     1   23 -->
+<line x1="327.52" y1="355.75" x2="398.95" y2="265.02" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     7   23 -->
+<line x1="365.93" y1="357.54" x2="398.95" y2="265.02" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     1   53 -->
+<line x1="327.52" y1="355.75" x2="260.78" y2="439.38" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     1   81 -->
+<line x1="327.52" y1="355.75" x2="393.13" y2="430.55" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    21   81 -->
+<line x1="468.17" y1="349.17" x2="393.13" y2="430.55" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     1   21 -->
+<line x1="327.52" y1="355.75" x2="468.17" y2="349.17" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   45 -->
+<line x1="237.50" y1="443.71" x2="124.11" y2="418.36" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    29   45 -->
+<line x1="240.76" y1="427.63" x2="124.11" y2="418.36" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     4   76 -->
+<line x1="218.54" y1="397.71" x2="265.97" y2="481.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    17   76 -->
+<line x1="218.75" y1="474.53" x2="265.97" y2="481.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    27   76 -->
+<line x1="199.08" y1="417.83" x2="265.97" y2="481.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    33   76 -->
+<line x1="237.92" y1="371.61" x2="265.97" y2="481.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    53   76 -->
+<line x1="260.78" y1="439.38" x2="265.97" y2="481.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    58   76 -->
+<line x1="178.85" y1="462.26" x2="265.97" y2="481.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    71   76 -->
+<line x1="236.86" y1="465.85" x2="265.97" y2="481.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2    4 -->
+<line x1="237.50" y1="443.71" x2="218.54" y2="397.71" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   33 -->
+<line x1="237.50" y1="443.71" x2="237.92" y2="371.61" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   58 -->
+<line x1="237.50" y1="443.71" x2="178.85" y2="462.26" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     4   17 -->
+<line x1="218.54" y1="397.71" x2="218.75" y2="474.53" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     4   27 -->
+<line x1="218.54" y1="397.71" x2="199.08" y2="417.83" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     4   33 -->
+<line x1="218.54" y1="397.71" x2="237.92" y2="371.61" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     4   53 -->
+<line x1="218.54" y1="397.71" x2="260.78" y2="439.38" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     4   58 -->
+<line x1="218.54" y1="397.71" x2="178.85" y2="462.26" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     4   71 -->
+<line x1="218.54" y1="397.71" x2="236.86" y2="465.85" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    17   27 -->
+<line x1="218.75" y1="474.53" x2="199.08" y2="417.83" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    17   33 -->
+<line x1="218.75" y1="474.53" x2="237.92" y2="371.61" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    17   58 -->
+<line x1="218.75" y1="474.53" x2="178.85" y2="462.26" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    27   33 -->
+<line x1="199.08" y1="417.83" x2="237.92" y2="371.61" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    27   53 -->
+<line x1="199.08" y1="417.83" x2="260.78" y2="439.38" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    27   58 -->
+<line x1="199.08" y1="417.83" x2="178.85" y2="462.26" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    27   71 -->
+<line x1="199.08" y1="417.83" x2="236.86" y2="465.85" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    33   53 -->
+<line x1="237.92" y1="371.61" x2="260.78" y2="439.38" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    33   58 -->
+<line x1="237.92" y1="371.61" x2="178.85" y2="462.26" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    33   71 -->
+<line x1="237.92" y1="371.61" x2="236.86" y2="465.85" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    53   58 -->
+<line x1="260.78" y1="439.38" x2="178.85" y2="462.26" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2  100 -->
+<line x1="237.50" y1="443.71" x2="261.28" y2="542.15" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    65  100 -->
+<line x1="308.28" y1="478.20" x2="261.28" y2="542.15" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    73  100 -->
+<line x1="328.09" y1="467.20" x2="261.28" y2="542.15" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    88  100 -->
+<line x1="339.02" y1="485.45" x2="261.28" y2="542.15" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   65 -->
+<line x1="237.50" y1="443.71" x2="308.28" y2="478.20" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   73 -->
+<line x1="237.50" y1="443.71" x2="328.09" y2="467.20" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   88 -->
+<line x1="237.50" y1="443.71" x2="339.02" y2="485.45" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    73   88 -->
+<line x1="328.09" y1="467.20" x2="339.02" y2="485.45" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    29   46 -->
+<line x1="240.76" y1="427.63" x2="197.95" y2="450.00" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   82 -->
+<line x1="237.50" y1="443.71" x2="327.24" y2="441.92" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     6   82 -->
+<line x1="279.81" y1="345.73" x2="327.24" y2="441.92" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    29   82 -->
+<line x1="240.76" y1="427.63" x2="327.24" y2="441.92" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2    6 -->
+<line x1="237.50" y1="443.71" x2="279.81" y2="345.73" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   67 -->
+<line x1="237.50" y1="443.71" x2="333.06" y2="407.29" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     6   29 -->
+<line x1="279.81" y1="345.73" x2="240.76" y2="427.63" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     6   67 -->
+<line x1="279.81" y1="345.73" x2="333.06" y2="407.29" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    29   67 -->
+<line x1="240.76" y1="427.63" x2="333.06" y2="407.29" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    15   71 -->
+<line x1="165.71" y1="399.28" x2="236.86" y2="465.85" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    29   71 -->
+<line x1="240.76" y1="427.63" x2="236.86" y2="465.85" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    30   71 -->
+<line x1="222.66" y1="502.81" x2="236.86" y2="465.85" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   15 -->
+<line x1="237.50" y1="443.71" x2="165.71" y2="399.28" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   30 -->
+<line x1="237.50" y1="443.71" x2="222.66" y2="502.81" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    15   17 -->
+<line x1="165.71" y1="399.28" x2="218.75" y2="474.53" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    15   29 -->
+<line x1="165.71" y1="399.28" x2="240.76" y2="427.63" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    15   30 -->
+<line x1="165.71" y1="399.28" x2="222.66" y2="502.81" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    15   53 -->
+<line x1="165.71" y1="399.28" x2="260.78" y2="439.38" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    17   29 -->
+<line x1="218.75" y1="474.53" x2="240.76" y2="427.63" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    29   30 -->
+<line x1="240.76" y1="427.63" x2="222.66" y2="502.81" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    29   53 -->
+<line x1="240.76" y1="427.63" x2="260.78" y2="439.38" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    30   53 -->
+<line x1="222.66" y1="502.81" x2="260.78" y2="439.38" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   62 -->
+<line x1="237.50" y1="443.71" x2="120.42" y2="449.10" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2  104 -->
+<line x1="237.50" y1="443.71" x2="233.45" y2="338.47" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   93 -->
+<line x1="237.50" y1="443.71" x2="212.86" y2="342.21" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2  103 -->
+<line x1="237.50" y1="443.71" x2="220.74" y2="324.93" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    35   71 -->
+<line x1="133.76" y1="497.05" x2="236.86" y2="465.85" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   35 -->
+<line x1="237.50" y1="443.71" x2="133.76" y2="497.05" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    20   76 -->
+<line x1="163.16" y1="527.12" x2="265.97" y2="481.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   20 -->
+<line x1="237.50" y1="443.71" x2="163.16" y2="527.12" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     3   83 -->
+<line x1="224.86" y1="553.37" x2="289.11" y2="516.12" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    71   83 -->
+<line x1="236.86" y1="465.85" x2="289.11" y2="516.12" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     3   71 -->
+<line x1="224.86" y1="553.37" x2="236.86" y2="465.85" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     3   53 -->
+<line x1="224.86" y1="553.37" x2="260.78" y2="439.38" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     3   80 -->
+<line x1="224.86" y1="553.37" x2="273.00" y2="580.90" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     3   51 -->
+<line x1="224.86" y1="553.37" x2="194.68" y2="497.57" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    12   51 -->
+<line x1="124.82" y1="585.31" x2="194.68" y2="497.57" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     3   12 -->
+<line x1="224.86" y1="553.37" x2="124.82" y2="585.31" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     3   73 -->
+<line x1="224.86" y1="553.37" x2="328.09" y2="467.20" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     4    9 -->
+<line x1="218.54" y1="397.71" x2="101.88" y2="381.63" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     4   14 -->
+<line x1="218.54" y1="397.71" x2="264.48" y2="300.40" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     4   73 -->
+<line x1="218.54" y1="397.71" x2="328.09" y2="467.20" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     6   79 -->
+<line x1="279.81" y1="345.73" x2="231.03" y2="223.28" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     6   74 -->
+<line x1="279.81" y1="345.73" x2="381.48" y2="408.93" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     6  104 -->
+<line x1="279.81" y1="345.73" x2="233.45" y2="338.47" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     6   93 -->
+<line x1="279.81" y1="345.73" x2="212.86" y2="342.21" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     6  103 -->
+<line x1="279.81" y1="345.73" x2="220.74" y2="324.93" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     7   65 -->
+<line x1="365.93" y1="357.54" x2="308.28" y2="478.20" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     8   79 -->
+<line x1="244.59" y1="125.59" x2="231.03" y2="223.28" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    19   79 -->
+<line x1="253.97" y1="124.77" x2="231.03" y2="223.28" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    24   79 -->
+<line x1="254.61" y1="134.34" x2="231.03" y2="223.28" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    26   79 -->
+<line x1="245.23" y1="135.16" x2="231.03" y2="223.28" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    11   26 -->
+<line x1="338.53" y1="186.70" x2="245.23" y2="135.16" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     8   11 -->
+<line x1="244.59" y1="125.59" x2="338.53" y2="186.70" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    11   19 -->
+<line x1="338.53" y1="186.70" x2="253.97" y2="124.77" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    11   24 -->
+<line x1="338.53" y1="186.70" x2="254.61" y2="134.34" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     8   48 -->
+<line x1="244.59" y1="125.59" x2="228.19" y2="34.63" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    19   48 -->
+<line x1="253.97" y1="124.77" x2="228.19" y2="34.63" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    24   48 -->
+<line x1="254.61" y1="134.34" x2="228.19" y2="34.63" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    26   48 -->
+<line x1="245.23" y1="135.16" x2="228.19" y2="34.63" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     8   86 -->
+<line x1="244.59" y1="125.59" x2="152.86" y2="157.01" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    19   86 -->
+<line x1="253.97" y1="124.77" x2="152.86" y2="157.01" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    24   86 -->
+<line x1="254.61" y1="134.34" x2="152.86" y2="157.01" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    26   86 -->
+<line x1="245.23" y1="135.16" x2="152.86" y2="157.01" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     9   46 -->
+<line x1="101.88" y1="381.63" x2="197.95" y2="450.00" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    10   86 -->
+<line x1="141.43" y1="276.69" x2="152.86" y2="157.01" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    10   33 -->
+<line x1="141.43" y1="276.69" x2="237.92" y2="371.61" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    11   28 -->
+<line x1="338.53" y1="186.70" x2="336.54" y2="309.82" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    11   64 -->
+<line x1="338.53" y1="186.70" x2="395.04" y2="98.29" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    36   64 -->
+<line x1="439.77" y1="126.34" x2="395.04" y2="98.29" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    11   36 -->
+<line x1="338.53" y1="186.70" x2="439.77" y2="126.34" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    15   45 -->
+<line x1="165.71" y1="399.28" x2="124.11" y2="418.36" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    15   33 -->
+<line x1="165.71" y1="399.28" x2="237.92" y2="371.61" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    16   83 -->
+<line x1="317.80" y1="385.74" x2="289.11" y2="516.12" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    16   69 -->
+<line x1="317.80" y1="385.74" x2="284.78" y2="546.64" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    17   69 -->
+<line x1="218.75" y1="474.53" x2="284.78" y2="546.64" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    30   69 -->
+<line x1="222.66" y1="502.81" x2="284.78" y2="546.64" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    51   69 -->
+<line x1="194.68" y1="497.57" x2="284.78" y2="546.64" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    28  108 -->
+<line x1="336.54" y1="309.82" x2="374.31" y2="312.14" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    33  108 -->
+<line x1="237.92" y1="371.61" x2="374.31" y2="312.14" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    28   33 -->
+<line x1="336.54" y1="309.82" x2="237.92" y2="371.61" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    28   67 -->
+<line x1="336.54" y1="309.82" x2="333.06" y2="407.29" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    61   67 -->
+<line x1="436.58" y1="384.17" x2="333.06" y2="407.29" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    28   59 -->
+<line x1="336.54" y1="309.82" x2="375.38" y2="382.83" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    28   61 -->
+<line x1="336.54" y1="309.82" x2="436.58" y2="384.17" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    59   61 -->
+<line x1="375.38" y1="382.83" x2="436.58" y2="384.17" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    30   76 -->
+<line x1="222.66" y1="502.81" x2="265.97" y2="481.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    30   65 -->
+<line x1="222.66" y1="502.81" x2="308.28" y2="478.20" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    31   74 -->
+<line x1="502.96" y1="432.19" x2="381.48" y2="408.93" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    66   74 -->
+<line x1="404.91" y1="472.36" x2="381.48" y2="408.93" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    31   66 -->
+<line x1="502.96" y1="432.19" x2="404.91" y2="472.36" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    34  107 -->
+<line x1="108.20" y1="73.60" x2="33.37" y2="73.60" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    38   58 -->
+<line x1="65.39" y1="493.90" x2="178.85" y2="462.26" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    39   58 -->
+<line x1="62.20" y1="464.58" x2="178.85" y2="462.26" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    39   45 -->
+<line x1="62.20" y1="464.58" x2="124.11" y2="418.36" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    46   69 -->
+<line x1="197.95" y1="450.00" x2="284.78" y2="546.64" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    53   81 -->
+<line x1="260.78" y1="439.38" x2="393.13" y2="430.55" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    55   67 -->
+<line x1="449.00" y1="337.05" x2="333.06" y2="407.29" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    55  108 -->
+<line x1="449.00" y1="337.05" x2="374.31" y2="312.14" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    56   76 -->
+<line x1="195.39" y1="602.36" x2="265.97" y2="481.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    61   70 -->
+<line x1="436.58" y1="384.17" x2="454.33" y2="455.46" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    61   84 -->
+<line x1="436.58" y1="384.17" x2="349.04" y2="511.26" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    65   75 -->
+<line x1="308.28" y1="478.20" x2="405.48" y2="556.21" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    65  101 -->
+<line x1="308.28" y1="478.20" x2="434.52" y2="470.87" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    88  101 -->
+<line x1="339.02" y1="485.45" x2="434.52" y2="470.87" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    96  101 -->
+<line x1="393.20" y1="564.74" x2="434.52" y2="470.87" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    65   96 -->
+<line x1="308.28" y1="478.20" x2="393.20" y2="564.74" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    88   96 -->
+<line x1="339.02" y1="485.45" x2="393.20" y2="564.74" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    66   85 -->
+<line x1="404.91" y1="472.36" x2="332.56" y2="552.55" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    82   85 -->
+<line x1="327.24" y1="441.92" x2="332.56" y2="552.55" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    66   82 -->
+<line x1="404.91" y1="472.36" x2="327.24" y2="441.92" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    59   88 -->
+<line x1="375.38" y1="382.83" x2="339.02" y2="485.45" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    66   88 -->
+<line x1="404.91" y1="472.36" x2="339.02" y2="485.45" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    59   66 -->
+<line x1="375.38" y1="382.83" x2="404.91" y2="472.36" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    66   83 -->
+<line x1="404.91" y1="472.36" x2="289.11" y2="516.12" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    66   87 -->
+<line x1="404.91" y1="472.36" x2="438.14" y2="500.19" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    81   87 -->
+<line x1="393.13" y1="430.55" x2="438.14" y2="500.19" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    67   73 -->
+<line x1="333.06" y1="407.29" x2="328.09" y2="467.20" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    67   84 -->
+<line x1="333.06" y1="407.29" x2="349.04" y2="511.26" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    67   77 -->
+<line x1="333.06" y1="407.29" x2="369.70" y2="587.25" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    68   78 -->
+<line x1="357.20" y1="430.77" x2="390.29" y2="507.82" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    76   78 -->
+<line x1="265.97" y1="481.79" x2="390.29" y2="507.82" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    68   76 -->
+<line x1="357.20" y1="430.77" x2="265.97" y2="481.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    68   88 -->
+<line x1="357.20" y1="430.77" x2="339.02" y2="485.45" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    68  102 -->
+<line x1="357.20" y1="430.77" x2="323.48" y2="523.45" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    68   87 -->
+<line x1="357.20" y1="430.77" x2="438.14" y2="500.19" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    69   75 -->
+<line x1="284.78" y1="546.64" x2="405.48" y2="556.21" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    76  102 -->
+<line x1="265.97" y1="481.79" x2="323.48" y2="523.45" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    69   76 -->
+<line x1="284.78" y1="546.64" x2="265.97" y2="481.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    85  102 -->
+<line x1="332.56" y1="552.55" x2="323.48" y2="523.45" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    95  102 -->
+<line x1="298.41" y1="584.79" x2="323.48" y2="523.45" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    69   85 -->
+<line x1="284.78" y1="546.64" x2="332.56" y2="552.55" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    69   95 -->
+<line x1="284.78" y1="546.64" x2="298.41" y2="584.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    70   73 -->
+<line x1="454.33" y1="455.46" x2="328.09" y2="467.20" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    70   74 -->
+<line x1="454.33" y1="455.46" x2="381.48" y2="408.93" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    70   75 -->
+<line x1="454.33" y1="455.46" x2="405.48" y2="556.21" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    71   95 -->
+<line x1="236.86" y1="465.85" x2="298.41" y2="584.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    84   95 -->
+<line x1="349.04" y1="511.26" x2="298.41" y2="584.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    71   84 -->
+<line x1="236.86" y1="465.85" x2="349.04" y2="511.26" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    71   85 -->
+<line x1="236.86" y1="465.85" x2="332.56" y2="552.55" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    73   99 -->
+<line x1="328.09" y1="467.20" x2="450.00" y2="539.08" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    96   99 -->
+<line x1="393.20" y1="564.74" x2="450.00" y2="539.08" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    73   96 -->
+<line x1="328.09" y1="467.20" x2="393.20" y2="564.74" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    75  105 -->
+<line x1="405.48" y1="556.21" x2="474.21" y2="575.89" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    75   99 -->
+<line x1="405.48" y1="556.21" x2="450.00" y2="539.08" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    75  101 -->
+<line x1="405.48" y1="556.21" x2="434.52" y2="470.87" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    76   94 -->
+<line x1="265.97" y1="481.79" x2="169.83" y2="582.47" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    76   89 -->
+<line x1="265.97" y1="481.79" x2="265.97" y2="622.86" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    77  100 -->
+<line x1="369.70" y1="587.25" x2="261.28" y2="542.15" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    77   89 -->
+<line x1="369.70" y1="587.25" x2="265.97" y2="622.86" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    78  105 -->
+<line x1="390.29" y1="507.82" x2="474.21" y2="575.89" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    78   99 -->
+<line x1="390.29" y1="507.82" x2="450.00" y2="539.08" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    82   87 -->
+<line x1="327.24" y1="441.92" x2="438.14" y2="500.19" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    82   91 -->
+<line x1="327.24" y1="441.92" x2="381.63" y2="614.86" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    84   87 -->
+<line x1="349.04" y1="511.26" x2="438.14" y2="500.19" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    85   87 -->
+<line x1="332.56" y1="552.55" x2="438.14" y2="500.19" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    85   92 -->
+<line x1="332.56" y1="552.55" x2="389.65" y2="667.81" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    89   98 -->
+<line x1="265.97" y1="622.86" x2="288.19" y2="698.41" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    90   98 -->
+<line x1="339.24" y1="649.11" x2="288.19" y2="698.41" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    95   98 -->
+<line x1="298.41" y1="584.79" x2="288.19" y2="698.41" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    89   90 -->
+<line x1="265.97" y1="622.86" x2="339.24" y2="649.11" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    89   95 -->
+<line x1="265.97" y1="622.86" x2="298.41" y2="584.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    90   95 -->
+<line x1="339.24" y1="649.11" x2="298.41" y2="584.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    89   91 -->
+<line x1="265.97" y1="622.86" x2="381.63" y2="614.86" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    89  106 -->
+<line x1="265.97" y1="622.86" x2="213.92" y2="722.04" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    90  102 -->
+<line x1="339.24" y1="649.11" x2="323.48" y2="523.45" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    90   96 -->
+<line x1="339.24" y1="649.11" x2="393.20" y2="564.74" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    91   96 -->
+<line x1="381.63" y1="614.86" x2="393.20" y2="564.74" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    90   91 -->
+<line x1="339.24" y1="649.11" x2="381.63" y2="614.86" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    96  105 -->
+<line x1="393.20" y1="564.74" x2="474.21" y2="575.89" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:   101  108 -->
+<line x1="434.52" y1="470.87" x2="374.31" y2="312.14" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Vertex:     3 -->
+<ellipse cx="224.86" cy="553.37" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="227.70" y="564.00" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">glasgow &#38; south western railway</text>
+<text x="224.86" y="556.37" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:     4 -->
+<ellipse cx="218.54" cy="397.71" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="221.39" y="408.34" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">j. &#38; p. coats</text>
+<text x="218.54" y="400.71" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:     9 -->
+<ellipse cx="101.88" cy="381.63" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="104.73" y="392.25" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">linen thread</text>
+<text x="101.88" y="384.63" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    10 -->
+<ellipse cx="141.43" cy="276.69" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="144.28" y="287.31" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">burmah oil</text>
+<text x="141.43" y="279.69" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    11 -->
+<ellipse cx="338.53" cy="186.70" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="341.38" y="197.33" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">united collieries</text>
+<text x="338.53" y="189.70" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    12 -->
+<ellipse cx="124.82" cy="585.31" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="127.67" y="595.94" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">north british locomotive</text>
+<text x="124.82" y="588.31" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    15 -->
+<ellipse cx="165.71" cy="399.28" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="168.56" y="409.91" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">lanarkshire &#38; dumbartonshire railway</text>
+<text x="165.71" y="402.28" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    18 -->
+<ellipse cx="532.50" cy="62.31" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="72.93" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">moss empires</text>
+<text x="532.50" y="65.31" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    20 -->
+<ellipse cx="163.16" cy="527.12" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="166.01" y="537.74" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">william mcewan</text>
+<text x="163.16" y="530.12" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    21 -->
+<ellipse cx="468.17" cy="349.17" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="471.02" y="359.79" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">william younger</text>
+<text x="468.17" y="352.17" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    22 -->
+<ellipse cx="532.50" cy="83.10" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="93.73" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">barry, ostlere &#38; shepherd</text>
+<text x="532.50" y="86.10" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    23 -->
+<ellipse cx="398.95" cy="265.02" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="401.80" y="275.64" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">west highland railway</text>
+<text x="398.95" y="268.02" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    25 -->
+<ellipse cx="532.50" cy="103.90" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="114.52" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">alex pirie &#38; sons</text>
+<text x="532.50" y="106.90" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    28 -->
+<ellipse cx="336.54" cy="309.82" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="339.39" y="320.45" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">fife coal</text>
+<text x="336.54" y="312.82" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    31 -->
+<ellipse cx="502.96" cy="432.19" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="505.81" y="442.82" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">george younger &#38; son</text>
+<text x="502.96" y="435.19" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    33 -->
+<ellipse cx="237.92" cy="371.61" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="240.77" y="382.23" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">irrawaddy flotilla</text>
+<text x="237.92" y="374.61" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    34 -->
+<ellipse cx="108.20" cy="73.60" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="111.05" y="84.23" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">scottish gympie gold mines</text>
+<text x="108.20" y="76.60" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    35 -->
+<ellipse cx="133.76" cy="497.05" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="136.61" y="507.67" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">allan line steamships</text>
+<text x="133.76" y="500.05" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    36 -->
+<ellipse cx="439.77" cy="126.34" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="442.62" y="136.96" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">clyde valley electrical power</text>
+<text x="439.77" y="129.34" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    37 -->
+<ellipse cx="532.50" cy="145.41" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="156.04" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">john dewar &#38; sons</text>
+<text x="532.50" y="148.41" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    40 -->
+<ellipse cx="532.50" cy="124.69" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="135.32" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">summerlee iron</text>
+<text x="532.50" y="127.69" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    41 -->
+<ellipse cx="532.50" cy="187.00" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="197.63" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">anchor line (henderson bros.)</text>
+<text x="532.50" y="190.00" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    42 -->
+<ellipse cx="532.50" cy="166.21" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="176.83" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">british dyewood &#38; chemical</text>
+<text x="532.50" y="169.21" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    43 -->
+<ellipse cx="532.50" cy="207.79" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="218.42" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">acadia sugar refining</text>
+<text x="532.50" y="210.79" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    44 -->
+<ellipse cx="532.50" cy="353.21" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="363.83" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">rivet bolt &#38; nut</text>
+<text x="532.50" y="356.21" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    45 -->
+<ellipse cx="124.11" cy="418.36" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="126.96" y="428.98" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">james dunlop</text>
+<text x="124.11" y="421.36" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    47 -->
+<ellipse cx="532.50" cy="228.59" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="239.21" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">david &#38; william henderson</text>
+<text x="532.50" y="231.59" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    48 -->
+<ellipse cx="228.19" cy="34.63" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="231.04" y="45.26" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">clan line steamers</text>
+<text x="228.19" y="37.63" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    49 -->
+<ellipse cx="532.50" cy="249.31" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="259.93" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">fairfield shipbuilding and engineering</text>
+<text x="532.50" y="252.31" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    50 -->
+<ellipse cx="437.64" cy="293.59" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="440.49" y="304.22" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">wemyss collieries trust</text>
+<text x="437.64" y="296.59" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    52 -->
+<ellipse cx="532.50" cy="290.90" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="301.52" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">dailuane-talisker distilleries</text>
+<text x="532.50" y="293.90" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    54 -->
+<ellipse cx="532.50" cy="270.10" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="280.73" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">bulloch lade</text>
+<text x="532.50" y="273.10" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    55 -->
+<ellipse cx="449.00" cy="337.05" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="451.85" y="347.67" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">lanarkshire steel</text>
+<text x="449.00" y="340.05" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    56 -->
+<ellipse cx="195.39" cy="602.36" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="198.24" y="612.99" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">glengarnock iron &#38; steel</text>
+<text x="195.39" y="605.36" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    57 -->
+<ellipse cx="532.50" cy="311.69" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="322.32" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">fresno copper</text>
+<text x="532.50" y="314.69" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    60 -->
+<ellipse cx="532.50" cy="332.41" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="343.04" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">argyll motors</text>
+<text x="532.50" y="335.41" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    61 -->
+<ellipse cx="436.58" cy="384.17" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="439.43" y="394.80" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">robertson, sanderson</text>
+<text x="436.58" y="387.17" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    62 -->
+<ellipse cx="120.42" cy="449.10" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="123.26" y="459.72" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">a.f. stoddard</text>
+<text x="120.42" y="452.10" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    63 -->
+<ellipse cx="283.43" cy="258.88" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="286.28" y="269.51" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">victoria jute</text>
+<text x="283.43" y="261.88" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    64 -->
+<ellipse cx="395.04" cy="98.29" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="397.89" y="108.91" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">broxburn oil</text>
+<text x="395.04" y="101.29" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    70 -->
+<ellipse cx="454.33" cy="455.46" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="457.18" y="466.08" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">british linen co., bank</text>
+<text x="454.33" y="458.46" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    75 -->
+<ellipse cx="405.48" cy="556.21" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="408.33" y="566.84" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">scottish provident institution</text>
+<text x="405.48" y="559.21" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    77 -->
+<ellipse cx="369.70" cy="587.25" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="372.54" y="597.88" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">life association of scotland</text>
+<text x="369.70" y="590.25" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    79 -->
+<ellipse cx="231.03" cy="223.28" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="233.88" y="233.90" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">general accident, fire &#38; life ass.</text>
+<text x="231.03" y="226.28" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    86 -->
+<ellipse cx="152.86" cy="157.01" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="155.71" y="167.63" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">scottish imperial ins.</text>
+<text x="152.86" y="160.01" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    87 -->
+<ellipse cx="438.14" cy="500.19" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="440.99" y="510.81" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">new zealand &#38; australian land</text>
+<text x="438.14" y="503.19" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    89 -->
+<ellipse cx="265.97" cy="622.86" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="268.81" y="633.48" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">scottish american investment</text>
+<text x="265.97" y="625.86" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    90 -->
+<ellipse cx="339.24" cy="649.11" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="342.09" y="659.74" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">scottish american mortgage</text>
+<text x="339.24" y="652.11" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    91 -->
+<ellipse cx="381.63" cy="614.86" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="384.47" y="625.48" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">alliance trust</text>
+<text x="381.63" y="617.86" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    92 -->
+<ellipse cx="389.65" cy="667.81" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="392.50" y="678.44" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">north of scotland canadian mortgage</text>
+<text x="389.65" y="670.81" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    94 -->
+<ellipse cx="169.83" cy="582.47" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="172.68" y="593.09" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">australasian mortgage &#38; agency</text>
+<text x="169.83" y="585.47" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    96 -->
+<ellipse cx="393.20" cy="564.74" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="396.05" y="575.37" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">investors' mortgage security</text>
+<text x="393.20" y="567.74" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:    97 -->
+<ellipse cx="532.50" cy="41.59" rx="5.18" ry="5.18" style="fill:rgb(0,255,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="535.35" y="52.21" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">north british canadian investment</text>
+<text x="532.50" y="44.59" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">0</text>
+<!-- Vertex:    98 -->
+<ellipse cx="288.19" cy="698.41" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="291.04" y="709.03" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">oregon mortgage</text>
+<text x="288.19" y="701.41" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:   100 -->
+<ellipse cx="261.28" cy="542.15" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="264.13" y="552.78" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">scottish reversionary</text>
+<text x="261.28" y="545.15" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:   101 -->
+<ellipse cx="434.52" cy="470.87" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="437.37" y="481.49" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">american mortgage co. of scotland</text>
+<text x="434.52" y="473.87" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:   106 -->
+<ellipse cx="213.92" cy="722.04" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="216.77" y="732.67" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">edinburgh american land mortgage</text>
+<text x="213.92" y="725.04" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:   107 -->
+<ellipse cx="33.37" cy="73.60" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="36.22" y="84.23" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">transvaal proprietary</text>
+<text x="33.37" y="76.60" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+<!-- Vertex:   108 -->
+<ellipse cx="374.31" cy="312.14" rx="5.18" ry="5.18" style="fill:rgb(255,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="377.16" y="322.77" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">reversionary association</text>
+<text x="374.31" y="315.14" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">1</text>
+</g>
+
+<g id="1">
+<!-- Edge:     1    7 -->
+<line x1="327.52" y1="355.75" x2="365.93" y2="357.54" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     1   16 -->
+<line x1="327.52" y1="355.75" x2="317.80" y2="385.74" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   76 -->
+<line x1="237.50" y1="443.71" x2="265.97" y2="481.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   17 -->
+<line x1="237.50" y1="443.71" x2="218.75" y2="474.53" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   27 -->
+<line x1="237.50" y1="443.71" x2="199.08" y2="417.83" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   53 -->
+<line x1="237.50" y1="443.71" x2="260.78" y2="439.38" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    17   53 -->
+<line x1="218.75" y1="474.53" x2="260.78" y2="439.38" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    17   71 -->
+<line x1="218.75" y1="474.53" x2="236.86" y2="465.85" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    53   71 -->
+<line x1="260.78" y1="439.38" x2="236.86" y2="465.85" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    58   71 -->
+<line x1="178.85" y1="462.26" x2="236.86" y2="465.85" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    65   88 -->
+<line x1="308.28" y1="478.20" x2="339.02" y2="485.45" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     2   46 -->
+<line x1="237.50" y1="443.71" x2="197.95" y2="450.00" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    67   82 -->
+<line x1="333.06" y1="407.29" x2="327.24" y2="441.92" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     5   72 -->
+<line x1="34.36" y1="126.64" x2="75.83" y2="126.64" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     6   14 -->
+<line x1="279.81" y1="345.73" x2="264.48" y2="300.40" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    13   32 -->
+<line x1="35.43" y1="177.50" x2="73.84" y2="177.50" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    69   83 -->
+<line x1="284.78" y1="546.64" x2="289.11" y2="516.12" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    30   51 -->
+<line x1="222.66" y1="502.81" x2="194.68" y2="497.57" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    59   67 -->
+<line x1="375.38" y1="382.83" x2="333.06" y2="407.29" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    65   76 -->
+<line x1="308.28" y1="478.20" x2="265.97" y2="481.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    66   78 -->
+<line x1="404.91" y1="472.36" x2="390.29" y2="507.82" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    66   81 -->
+<line x1="404.91" y1="472.36" x2="393.13" y2="430.55" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    73  102 -->
+<line x1="328.09" y1="467.20" x2="323.48" y2="523.45" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    68   73 -->
+<line x1="357.20" y1="430.77" x2="328.09" y2="467.20" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    69  102 -->
+<line x1="284.78" y1="546.64" x2="323.48" y2="523.45" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    85   95 -->
+<line x1="332.56" y1="552.55" x2="298.41" y2="584.79" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    84   85 -->
+<line x1="349.04" y1="511.26" x2="332.56" y2="552.55" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    99  105 -->
+<line x1="450.00" y1="539.08" x2="474.21" y2="575.89" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Vertex:     1 -->
+<ellipse cx="327.52" cy="355.75" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="330.37" y="366.37" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">north british railway</text>
+<text x="327.52" y="358.75" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:     5 -->
+<ellipse cx="34.36" cy="126.64" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="37.21" y="137.26" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">great north of scotland railway</text>
+<text x="34.36" y="129.64" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:     6 -->
+<ellipse cx="279.81" cy="345.73" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="282.66" y="356.35" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">highland railway</text>
+<text x="279.81" y="348.73" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:     7 -->
+<ellipse cx="365.93" cy="357.54" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="368.78" y="368.17" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">forth bridge railway</text>
+<text x="365.93" y="360.54" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    13 -->
+<ellipse cx="35.43" cy="177.50" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="38.28" y="188.13" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">distillers</text>
+<text x="35.43" y="180.50" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    14 -->
+<ellipse cx="264.48" cy="300.40" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="267.32" y="311.02" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">stewarts and lloyds</text>
+<text x="264.48" y="303.40" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    16 -->
+<ellipse cx="317.80" cy="385.74" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="320.64" y="396.37" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">glasgow district subway</text>
+<text x="317.80" y="388.74" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    27 -->
+<ellipse cx="199.08" cy="417.83" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="201.93" y="428.46" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">coltness iron</text>
+<text x="199.08" y="420.83" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    32 -->
+<ellipse cx="73.84" cy="177.50" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="76.69" y="188.13" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">arizona copper</text>
+<text x="73.84" y="180.50" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    46 -->
+<ellipse cx="197.95" cy="450.00" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="200.80" y="460.62" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">lanarkshire &#38; ayrshire railway</text>
+<text x="197.95" y="453.00" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    53 -->
+<ellipse cx="260.78" cy="439.38" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="263.63" y="450.00" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">young's paraffin ligth &#38; mineral oil</text>
+<text x="260.78" y="442.38" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    58 -->
+<ellipse cx="178.85" cy="462.26" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="181.70" y="472.89" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">lothian coal</text>
+<text x="178.85" y="465.26" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    59 -->
+<ellipse cx="375.38" cy="382.83" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="378.22" y="393.45" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">scottish waggon</text>
+<text x="375.38" y="385.83" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    66 -->
+<ellipse cx="404.91" cy="472.36" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="407.76" y="482.99" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">national bank of scotland</text>
+<text x="404.91" y="475.36" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    67 -->
+<ellipse cx="333.06" cy="407.29" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="335.91" y="417.91" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">commercial bank of scotland</text>
+<text x="333.06" y="410.29" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    72 -->
+<ellipse cx="75.83" cy="126.64" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="78.68" y="137.26" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">north of scotland bank</text>
+<text x="75.83" y="129.64" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    76 -->
+<ellipse cx="265.97" cy="481.79" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="268.81" y="492.41" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">standard life ass.</text>
+<text x="265.97" y="484.79" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    78 -->
+<ellipse cx="390.29" cy="507.82" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="393.13" y="518.44" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">scottish equitable life ass.</text>
+<text x="390.29" y="510.82" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    81 -->
+<ellipse cx="393.13" cy="430.55" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="395.97" y="441.17" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">scottish union &#38; national ins.</text>
+<text x="393.13" y="433.55" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    82 -->
+<ellipse cx="327.24" cy="441.92" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="330.09" y="452.54" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">edinburgh life ass.</text>
+<text x="327.24" y="444.92" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    83 -->
+<ellipse cx="289.11" cy="516.12" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="291.96" y="526.75" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">city of glasgow life ass.</text>
+<text x="289.11" y="519.12" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    84 -->
+<ellipse cx="349.04" cy="511.26" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="351.88" y="521.88" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">caledonian ass.</text>
+<text x="349.04" y="514.26" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    85 -->
+<ellipse cx="332.56" cy="552.55" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="335.41" y="563.17" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">national guarantee &#38; suretyship association</text>
+<text x="332.56" y="555.55" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    88 -->
+<ellipse cx="339.02" cy="485.45" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="341.87" y="496.08" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">british investment trust</text>
+<text x="339.02" y="488.45" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    95 -->
+<ellipse cx="298.41" cy="584.79" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="301.26" y="595.41" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">edinburgh investment trust</text>
+<text x="298.41" y="587.79" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:    99 -->
+<ellipse cx="450.00" cy="539.08" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="452.85" y="549.71" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">scottish investment trust</text>
+<text x="450.00" y="542.08" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:   102 -->
+<ellipse cx="323.48" cy="523.45" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="326.32" y="534.08" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">realisation &#38; debenture corp. of scotland</text>
+<text x="323.48" y="526.45" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+<!-- Vertex:   105 -->
+<ellipse cx="474.21" cy="575.89" rx="5.18" ry="5.18" style="fill:rgb(127,255,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="477.06" y="586.51" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">united states mortgage co. of scotland</text>
+<text x="474.21" y="578.89" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">2</text>
+</g>
+
+<g id="2">
+<!-- Edge:     2   71 -->
+<line x1="237.50" y1="443.71" x2="236.86" y2="465.85" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    65   73 -->
+<line x1="308.28" y1="478.20" x2="328.09" y2="467.20" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    17   30 -->
+<line x1="218.75" y1="474.53" x2="222.66" y2="502.81" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    17   51 -->
+<line x1="218.75" y1="474.53" x2="194.68" y2="497.57" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    38   39 -->
+<line x1="65.39" y1="493.90" x2="62.20" y2="464.58" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    68   74 -->
+<line x1="357.20" y1="430.77" x2="381.48" y2="408.93" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    69   80 -->
+<line x1="284.78" y1="546.64" x2="273.00" y2="580.90" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Vertex:    17 -->
+<ellipse cx="218.75" cy="474.53" rx="5.18" ry="5.18" style="fill:rgb(255,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="221.60" y="485.16" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">tharsis sulphur &#38; copper</text>
+<text x="218.75" y="477.53" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">3</text>
+<!-- Vertex:    30 -->
+<ellipse cx="222.66" cy="502.81" rx="5.18" ry="5.18" style="fill:rgb(255,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="225.50" y="513.43" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">nobel's explosives</text>
+<text x="222.66" y="505.81" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">3</text>
+<!-- Vertex:    38 -->
+<ellipse cx="65.39" cy="493.90" rx="5.18" ry="5.18" style="fill:rgb(255,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="68.24" y="504.53" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">lothians electric power</text>
+<text x="65.39" y="496.90" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">3</text>
+<!-- Vertex:    39 -->
+<ellipse cx="62.20" cy="464.58" rx="5.18" ry="5.18" style="fill:rgb(255,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="65.04" y="475.21" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">scottish central electric power</text>
+<text x="62.20" y="467.58" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">3</text>
+<!-- Vertex:    51 -->
+<ellipse cx="194.68" cy="497.57" rx="5.18" ry="5.18" style="fill:rgb(255,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="197.53" y="508.19" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">steel company of scotland</text>
+<text x="194.68" y="500.57" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">3</text>
+<!-- Vertex:    65 -->
+<ellipse cx="308.28" cy="478.20" rx="5.18" ry="5.18" style="fill:rgb(255,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="311.13" y="488.82" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">bank of scotland</text>
+<text x="308.28" y="481.20" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">3</text>
+<!-- Vertex:    68 -->
+<ellipse cx="357.20" cy="430.77" rx="5.18" ry="5.18" style="fill:rgb(255,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="360.05" y="441.40" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">royal bank of scotland</text>
+<text x="357.20" y="433.77" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">3</text>
+<!-- Vertex:    69 -->
+<ellipse cx="284.78" cy="546.64" rx="5.18" ry="5.18" style="fill:rgb(255,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="287.63" y="557.26" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">union bank of scotland</text>
+<text x="284.78" y="549.64" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">3</text>
+<!-- Vertex:    71 -->
+<ellipse cx="236.86" cy="465.85" rx="5.18" ry="5.18" style="fill:rgb(255,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="239.70" y="476.48" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">clydesdale bank</text>
+<text x="236.86" y="468.85" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">3</text>
+<!-- Vertex:    73 -->
+<ellipse cx="328.09" cy="467.20" rx="5.18" ry="5.18" style="fill:rgb(255,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="330.94" y="477.83" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">scottish widows fund life ass.</text>
+<text x="328.09" y="470.20" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">3</text>
+<!-- Vertex:    74 -->
+<ellipse cx="381.48" cy="408.93" rx="5.18" ry="5.18" style="fill:rgb(255,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="384.33" y="419.56" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">north british &#38; mercantile ins.</text>
+<text x="381.48" y="411.93" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">3</text>
+<!-- Vertex:    80 -->
+<ellipse cx="273.00" cy="580.90" rx="5.18" ry="5.18" style="fill:rgb(255,0,0);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="275.84" y="591.52" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">scottish amicable life ass.</text>
+<text x="273.00" y="583.90" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">3</text>
+</g>
+
+<g id="3">
+<!-- Edge:    93  104 -->
+<line x1="212.86" y1="342.21" x2="233.45" y2="338.47" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:   103  104 -->
+<line x1="220.74" y1="324.93" x2="233.45" y2="338.47" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    93  103 -->
+<line x1="212.86" y1="342.21" x2="220.74" y2="324.93" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Vertex:    93 -->
+<ellipse cx="212.86" cy="342.21" rx="5.18" ry="5.18" style="fill:rgb(0,0,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="215.71" y="352.84" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">northern american trust</text>
+<text x="212.86" y="345.21" style="font-family:Helvetica;font-size:9;fill:rgb(255,255,255);text-anchor:middle;">4</text>
+<!-- Vertex:   103 -->
+<ellipse cx="220.74" cy="324.93" rx="5.18" ry="5.18" style="fill:rgb(0,0,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="223.59" y="335.56" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">second scottish american trust</text>
+<text x="220.74" y="327.93" style="font-family:Helvetica;font-size:9;fill:rgb(255,255,255);text-anchor:middle;">4</text>
+<!-- Vertex:   104 -->
+<ellipse cx="233.45" cy="338.47" rx="5.18" ry="5.18" style="fill:rgb(0,0,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="236.30" y="349.10" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">third scottish american trust</text>
+<text x="233.45" y="341.47" style="font-family:Helvetica;font-size:9;fill:rgb(255,255,255);text-anchor:middle;">4</text>
+</g>
+
+<g id="4">
+<!-- Edge:     2   29 -->
+<line x1="237.50" y1="443.71" x2="240.76" y2="427.63" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Vertex:     2 -->
+<ellipse cx="237.50" cy="443.71" rx="5.18" ry="5.18" style="fill:rgb(255,216,242);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="240.34" y="454.34" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">caledonian railway</text>
+<text x="237.50" y="446.71" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">5</text>
+<!-- Vertex:    29 -->
+<ellipse cx="240.76" cy="427.63" rx="5.18" ry="5.18" style="fill:rgb(255,216,242);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="243.61" y="438.26" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">callander &#38; oban railway</text>
+<text x="240.76" y="430.63" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0);text-anchor:middle;">5</text>
+</g>
+
+<g id="5">
+<!-- Edge:     8   26 -->
+<line x1="244.59" y1="125.59" x2="245.23" y2="135.16" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    19   26 -->
+<line x1="253.97" y1="124.77" x2="245.23" y2="135.16" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    24   26 -->
+<line x1="254.61" y1="134.34" x2="245.23" y2="135.16" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     8   19 -->
+<line x1="244.59" y1="125.59" x2="253.97" y2="124.77" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:     8   24 -->
+<line x1="244.59" y1="125.59" x2="254.61" y2="134.34" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Edge:    19   24 -->
+<line x1="253.97" y1="124.77" x2="254.61" y2="134.34" style="stroke-width:1.60;stroke:rgb(0,0,255)"></line>
+<!-- Vertex:     8 -->
+<ellipse cx="244.59" cy="125.59" rx="5.18" ry="5.18" style="fill:rgb(140,35,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="247.44" y="136.21" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">consolidated tea &#38; lands</text>
+<text x="244.59" y="128.59" style="font-family:Helvetica;font-size:9;fill:rgb(255,255,255);text-anchor:middle;">8</text>
+<!-- Vertex:    19 -->
+<ellipse cx="253.97" cy="124.77" rx="5.18" ry="5.18" style="fill:rgb(140,35,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="256.81" y="135.39" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">kanan devan hills produce</text>
+<text x="253.97" y="127.77" style="font-family:Helvetica;font-size:9;fill:rgb(255,255,255);text-anchor:middle;">8</text>
+<!-- Vertex:    24 -->
+<ellipse cx="254.61" cy="134.34" rx="5.18" ry="5.18" style="fill:rgb(140,35,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="257.45" y="144.97" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">anglo-american direct tea trading</text>
+<text x="254.61" y="137.34" style="font-family:Helvetica;font-size:9;fill:rgb(255,255,255);text-anchor:middle;">8</text>
+<!-- Vertex:    26 -->
+<ellipse cx="245.23" cy="135.16" rx="5.18" ry="5.18" style="fill:rgb(140,35,255);stroke:rgb(0,0,0);stroke-width:0.50;"/>
+<text x="248.08" y="145.79" style="font-family:Helvetica;font-size:9;fill:rgb(0,0,0)">amalgamated tea estates</text>
+<text x="245.23" y="138.16" style="font-family:Helvetica;font-size:9;fill:rgb(255,255,255);text-anchor:middle;">8</text>
+</g>
+</g>
+</svg>

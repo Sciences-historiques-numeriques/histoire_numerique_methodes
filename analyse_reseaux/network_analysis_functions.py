@@ -10,6 +10,7 @@ import pprint as pprint
 import networkx as nx
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 
 ### Basic properties of a graph
@@ -41,6 +42,18 @@ def remove_node_attributes(G, attrs_to_remove):
                 del G.nodes[node][attr]
 
 
+
+def describe_violinplot(il, plot_title):
+
+    sl_id = pd.Series(il)
+    print(sl_id.describe())
+
+    plt.figure(figsize=(20, 6))
+    p = sns.violinplot(data=sl_id, orient='h', cut=0)
+    plt.title(plot_title)
+    plt.show()
+
+   
 
 ###  Describe and plot distribution of integers' list
 
