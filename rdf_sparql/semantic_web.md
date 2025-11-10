@@ -1,8 +1,8 @@
 
-[MA 1 fr] Web sémantique et SPARQL (mettre dans page web doc !)
+[MA 1 fr] Web sémantique et SPARQL (_master version_)
 
 
-### Web sémantique et SPARQL
+### Introduction
 
 - [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (Wikipedia)
     
@@ -11,8 +11,6 @@
 - RDF: [Resource Description Framework](https://fr.wikipedia.org/wiki/Resource_Description_Framework)
     
 - La syntaxe des requêtes SPARQL: [https://www.w3.org/TR/sparql11-query](https://www.w3.org/TR/sparql11-query)
-  
-- [Tutoriel SPARQL basé sur le tutoriel Wikidata](https://en.wikibooks.org/wiki/SPARQL)
     
 - [Tutoriel SPARQL](https://web-semantique.developpez.com/tutoriels/jena/arq/introduction-sparql/) (français)  
     Se concentrer sur la syntaxe des requêtes SPARQL, ne rien installer et explorer ensuite DBpaedia
@@ -39,7 +37,9 @@
     
 - SPARQL Endpoint: [https://query.wikidata.org](https://query.wikidata.org)
 
-- [Wikidata SPARQL tutorial](https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial)
+-  [Tutoriel SPARQL basé sur le tutoriel Wikidata](https://en.wikibooks.org/wiki/SPARQL)
+
+  -  [Wikidata SPARQL tutorial](https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial)
     
 - Query builder: [https://query.wikidata.org/querybuilder/?uselang=en](https://query.wikidata.org/querybuilder/?uselang=en)
     
