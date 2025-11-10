@@ -19,7 +19,7 @@
 
 ### DBpaedia
 
-- Projet Astronomes: [Explorer dbpedia](https://github.com/Sciences-historiques-numeriques/astronomers/wiki/DBpedia_explorer)
+- Projet Astronomes: [Explorer dbpedia]([https://github.com/Sciences-historiques-numeriques/astronomers/wiki/DBpedia_explorer](https://github.com/Sciences-historiques-numeriques/astronomers/blob/main/documentation/DBpedia/DBpedia_explorer.md))
     
 
 - Point d'accès SPARQL de DBPaedia: [https://dbpedia.org/sparql](https://dbpedia.org/sparql)
@@ -33,7 +33,7 @@
 
 ### Wikidata
 
-- Projet Astronomes: [Explorer Wikidata](https://github.com/Sciences-historiques-numeriques/astronomers/wiki/Wikidata-exploration)
+- Projet Astronomes: [Explorer Wikidata]([https://github.com/Sciences-historiques-numeriques/astronomers/wiki/Wikidata-exploration](https://github.com/Sciences-historiques-numeriques/astronomers/blob/main/documentation/wikidata/Wikidata-exploration.md)
     
 - SPARQL Endpoint: [https://query.wikidata.org](https://query.wikidata.org)
 
