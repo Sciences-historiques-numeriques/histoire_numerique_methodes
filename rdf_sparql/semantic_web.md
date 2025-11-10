@@ -38,8 +38,7 @@
 - SPARQL Endpoint: [https://query.wikidata.org](https://query.wikidata.org)
 
 -  [Tutoriel SPARQL basé sur le tutoriel Wikidata](https://en.wikibooks.org/wiki/SPARQL)
-
-  -  [Wikidata SPARQL tutorial](https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial)
+    -  [Wikidata SPARQL tutorial](https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial)
     
 - Query builder: [https://query.wikidata.org/querybuilder/?uselang=en](https://query.wikidata.org/querybuilder/?uselang=en)
     
